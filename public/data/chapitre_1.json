@@ -1,80 +1,2667 @@
 [
   {
     "id": "c1_q1",
-    "chapterId": 1,
-    "question": "Quel article de la Constitution du 4 octobre 1958 définit le rôle du Président de la République comme garant de la continuité de l'État et du respect des traités ?",
+    "chapterId": 3,
+    "question": "Quelle était la contribution de l'agriculture au PIB de la Tunisie en 1960 ?",
     "options": [
-      "Article 5",
-      "Article 8",
-      "Article 16",
-      "Article 20"
+      "10,2 %",
+      "16 %",
+      "20 %",
+      "24 %"
     ],
-    "correctAnswer": 0,
-    "explanation": "L'article 5 dispose que 'Le Président de la République veille au respect de la Constitution. Il assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics ainsi que la continuité de l'État. Il est le garant de l'indépendance nationale, de l'intégrité du territoire et du respect des traités.'"
+    "correctAnswer": 3,
+    "explanation": "Selon la Section 1.1 du cours, au début des années 1960, l'agriculture représentait plus de 20 % du PIB et, plus précisément en 1960, sa contribution était de 24 % du PIB."
   },
   {
     "id": "c1_q2",
-    "chapterId": 1,
-    "question": "En vertu de l'article 49 alinéa 3 de la Constitution, combien de fois par session ordinaire le Premier ministre peut-il engager la responsabilité du Gouvernement sur un projet de loi ordinaire ?",
+    "chapterId": 3,
+    "question": "À quel niveau la contribution de l'agriculture au PIB s'est-elle établie pour la période 1978-1980 ?",
     "options": [
-      "Autant de fois qu'il le souhaite",
-      "Une seule fois par session ordinaire",
-      "Deux fois par an",
-      "Uniquement sur les textes votés en commission mixte paritaire"
+      "24 %",
+      "16 %",
+      "16,7 %",
+      "10,2 %"
     ],
     "correctAnswer": 1,
-    "explanation": "Depuis la révision constitutionnelle de 2008, l'usage du 49.3 est limité aux projets de loi de finances (PLF), de financement de la sécurité sociale (PLFSS), et à un seul autre texte par session parlementaire."
+    "explanation": "La Section 1.1 indique que la part de l'agriculture a glissé de 24 % en 1960 à 16 % pour la période 1978-1980."
   },
   {
     "id": "c1_q3",
-    "chapterId": 1,
-    "question": "Qui a le pouvoir de saisir le Conseil constitutionnel pour une Question Prioritaire de Constitutionnalité (QPC) en dernière instance avant examen au fond ?",
+    "chapterId": 3,
+    "question": "Quelle était la part de l'agriculture dans le PIB tunisien sur la période 1990-1994 ?",
     "options": [
-      "Tout citoyen directement auprès du greffe du Conseil",
-      "Le Conseil d'État ou la Cour de cassation",
-      "Le Président de la République ou 60 députés",
-      "Le Défenseur des droits"
+      "10,2 %",
+      "13,6 %",
+      "16,7 %",
+      "24 %"
     ],
-    "correctAnswer": 1,
-    "explanation": "Dans le cadre de la QPC (article 61-1), le Conseil constitutionnel est saisi sur renvoi du Conseil d'État ou de la Cour de cassation, qui opèrent un filtre préalable."
+    "correctAnswer": 2,
+    "explanation": "La contribution de l'agriculture au PIB est remontée légèrement à 16,7 % pour la période 1990-1994, comme mentionné à la Section 1.1."
   },
   {
     "id": "c1_q4",
-    "chapterId": 1,
-    "question": "Combien de membres composent le Conseil constitutionnel (hors anciens Présidents de la République membres de droit) ?",
+    "chapterId": 3,
+    "question": "En 2017, quelle était la contribution directe du secteur de l'agriculture et de la pêche au PIB national de la Tunisie ?",
     "options": [
-      "7 membres",
-      "9 membres",
-      "12 membres",
-      "15 membres"
+      "10,2 %",
+      "13,6 %",
+      "16,7 %",
+      "1,9 %"
     ],
-    "correctAnswer": 1,
-    "explanation": "Le Conseil constitutionnel comprend neuf membres nommés pour un mandat de 9 ans non renouvelable : 3 par le Président de la République, 3 par le Président de l'Assemblée nationale, et 3 par le Président du Sénat."
+    "correctAnswer": 0,
+    "explanation": "En 2017, la contribution directe du secteur de l'agriculture et de la pêche s'est stabilisée à 10,2 % du PIB national (Section 1.1)."
   },
   {
     "id": "c1_q5",
-    "chapterId": 1,
-    "question": "Quel principe fondamental a été consacré par la décision 'Liberté d'association' du Conseil constitutionnel du 16 juillet 1971 ?",
+    "chapterId": 3,
+    "question": "Quelle était la contribution globale du complexe agro-industriel tunisien (agriculture, pêche et industries agro-alimentaires) au PIB en 2017 ?",
     "options": [
-      "La suprématie des traités sur les lois",
-      "L'intégration du Préambule de la Constitution dans le bloc de constitutionnalité",
-      "L'irresponsabilité pénale du chef de l'État",
-      "La création du principe de précaution"
+      "10,2 %",
+      "13,6 %",
+      "16 %",
+      "24 %"
     ],
     "correctAnswer": 1,
-    "explanation": "La décision historique du 16 juillet 1971 a conféré une valeur juridique contraignante au Préambule de 1958 (renvoyant à la DDHC de 1789 et au Préambule de 1946), créant le 'bloc de constitutionnalité'."
+    "explanation": "En ajoutant la contribution des industries agro-alimentaires à celle de l'agriculture, le complexe agro-industriel tunisien représentait 13,6 % du PIB en 2017 (Section 1.1)."
   },
   {
     "id": "c1_q6",
-    "chapterId": 1,
-    "question": "En cas de vacance de la Présidence de la République constatée par le Conseil constitutionnel, qui assure l'intérim ?",
+    "chapterId": 3,
+    "question": "Quel a été le taux de croissance moyen annuel du secteur agricole sur la période 2011-2017 en Tunisie ?",
     "options": [
-      "Le Premier ministre",
-      "Le Président de l'Assemblée nationale",
-      "Le Président du Sénat",
-      "Le Président du Conseil constitutionnel"
+      "1,9 %",
+      "2,8 %",
+      "5,5 %",
+      "6,0 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sur la période 2011-2017 (phase de transition démocratique), le secteur agricole a enregistré une croissance moyenne de 2,8 % par an (Section 1.1)."
+  },
+  {
+    "id": "c1_q7",
+    "chapterId": 3,
+    "question": "Quel était le taux de croissance moyen annuel du secteur agricole en Tunisie sur la période 2000-2010 ?",
+    "options": [
+      "1,0 %",
+      "1,9 %",
+      "2,8 %",
+      "4,6 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La croissance moyenne annuelle du secteur agricole pour la période 2000-2010 était estimée à 1,9 % (Section 1.1)."
+  },
+  {
+    "id": "c1_q8",
+    "chapterId": 3,
+    "question": "Quelles années de forte sécheresse ont lourdement infléchi la croissance de la valeur ajoutée agricole sur la période 2011-2017 ?",
+    "options": [
+      "2011 et 2012",
+      "2013 et 2016",
+      "2012 et 2015",
+      "2014 et 2017"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Section 1.1 précise que les années de forte sécheresse, notamment 2013 et 2016, ont vu la croissance de la valeur ajoutée agricole s'infléchir lourdement en raison de l'impact sur les cultures pluviales."
+  },
+  {
+    "id": "c1_q9",
+    "chapterId": 3,
+    "question": "Quelle était la population active agricole en Tunisie en 2018 et sa part relative dans la population active totale ?",
+    "options": [
+      "575 800 personnes (17,6 %)",
+      "505 800 personnes (14,5 %)",
+      "387 000 personnes (35 %)",
+      "1 068 000 personnes (100 %)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "En 2018, la population active agricole était estimée à 505 800 personnes, représentant 14,5 % de la population active totale (Section 1.2)."
+  },
+  {
+    "id": "c1_q10",
+    "chapterId": 3,
+    "question": "Quelle était la population active agricole occupée en Tunisie en 2010 et sa part relative dans la population active totale ?",
+    "options": [
+      "505 800 personnes (14,5 %)",
+      "575 800 personnes (17,6 %)",
+      "1 104 000 personnes (52 %)",
+      "975 000 personnes (38 %)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Section 1.2 indique qu'en 2010, la population active agricole comptait 575 800 personnes, soit 17,6 % de la population active totale."
+  },
+  {
+    "id": "c1_q11",
+    "chapterId": 3,
+    "question": "Quel a été le rythme de progression moyen annuel des allocations budgétaires de l'État en faveur de l'agriculture sur la période 2011-2017 ?",
+    "options": [
+      "4,6 %",
+      "5,5 %",
+      "6,0 %",
+      "5,8 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les allocations de l'État en faveur de l'agriculture ont progressé en moyenne de 5,5 % par an sur la période 2011-2017 (Section 1.3)."
+  },
+  {
+    "id": "c1_q12",
+    "chapterId": 3,
+    "question": "Quelle part de ses dépenses publiques (hors dette et dépenses imprévues) la Tunisie a-t-elle consacrée au secteur agricole en 2017 ?",
+    "options": [
+      "4,6 %",
+      "5,7 %",
+      "5,8 %",
+      "10,2 %"
+    ],
+    "correctAnswer": 0,
+    "explanation": "En 2017, la Tunisie n'a consacré que 4,6 % de ses dépenses publiques (hors dette et dépenses imprévues) au secteur agricole (Section 1.3)."
+  },
+  {
+    "id": "c1_q13",
+    "chapterId": 3,
+    "question": "Comment a évolué l'indice d'orientation agricole des dépenses publiques tunisiennes entre 2010 et 2017 ?",
+    "options": [
+      "Il a progressé de 0,44 à 0,71",
+      "Il est resté stable à 1,00",
+      "Il a diminué de 0,71 en 2010 à 0,44 en 2017",
+      "Il s'est stabilisé à 0,61"
     ],
     "correctAnswer": 2,
-    "explanation": "Selon l'article 7 de la Constitution, en cas de vacance ou d'empêchement définitif constaté par le Conseil constitutionnel, les fonctions du Président sont provisoirement exercées par le Président du Sénat."
+    "explanation": "La Section 1.3 précise que l'indice d'orientation agricole a diminué régulièrement : 0,71 en 2010, 0,61 en 2011 et 2012, 0,49 en 2013, et 0,44 en 2017."
+  },
+  {
+    "id": "c1_q14",
+    "chapterId": 3,
+    "question": "Que traduit un indice d'orientation agricole inférieur à l'unité (1) en Tunisie ?",
+    "options": [
+      "L'État consacre moins de ressources financières à l'agriculture que sa contribution relative au PIB",
+      "L'agriculture bénéficie de transferts nets supérieurs à sa valeur ajoutée",
+      "Les dépenses d'équipement agricole sont plus élevées que les dépenses de fonctionnement",
+      "Le secteur agricole est autosuffisant financièrement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'indice d'orientation agricole mesure le rapport entre la part des dépenses agricoles dans les dépenses publiques et la part de l'agriculture dans le PIB. Un indice inférieur à 1 montre que l'État consacre moins de ressources financières au secteur que ce qu'il rapporte à l'économie globale (Section 1.3)."
+  },
+  {
+    "id": "c1_q15",
+    "chapterId": 3,
+    "question": "Quel a été le taux de couverture moyen des importations par les exportations agricoles de la Tunisie sur la période 2011-2017 ?",
+    "options": [
+      "44 %",
+      "66 %",
+      "76 %",
+      "100 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La balance commerciale agricole de la Tunisie a été déficitaire sur la période 2011-2017, avec un taux de couverture moyen des importations par les exportations de seulement 66 % (Section 1.4)."
+  },
+  {
+    "id": "c1_q16",
+    "chapterId": 3,
+    "question": "Quel était le déficit commercial agricole annuel moyen sur la période 2011-2017, et à quelle part de la valeur ajoutée du secteur agro-alimentaire global correspond-il ?",
+    "options": [
+      "729 MDT (5,8 % de la valeur ajoutée)",
+      "1 135 MDT (10,2 % de la valeur ajoutée)",
+      "1 552 millions de dinars (16 % de la valeur ajoutée)",
+      "2,3 milliards de dollars (11 % de la valeur ajoutée)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le déficit annuel moyen s'est établi à 1 552 millions de dinars, soit l'équivalent de 16 % de la valeur ajoutée totale du secteur agricole et des industries agro-alimentaires réunis (Section 1.4)."
+  },
+  {
+    "id": "c1_q17",
+    "chapterId": 3,
+    "question": "Quelle a été la seule année entre 1960 et 2017 où la balance commerciale agricole de la Tunisie a été excédentaire ?",
+    "options": [
+      "1960",
+      "1986",
+      "2006",
+      "2017"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Selon la Section 1.4 du cours, à l'exception notable de l'année 2006, la balance commerciale agricole de la Tunisie a toujours été déficitaire."
+  },
+  {
+    "id": "c1_q18",
+    "chapterId": 3,
+    "question": "Quelle était la valeur des importations agricoles tunisiennes en 2017 et quelle part des importations totales représentait-elle ?",
+    "options": [
+      "1,55 milliard de dollars courants (16 %)",
+      "2,3 milliards de dollars courants (11 %)",
+      "1,09 milliard de dinars (76 %)",
+      "1,48 milliard de dinars (1,5 %)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "En 2017, les importations agricoles s'élevaient à 2,3 milliards de dollars courants, représentant 11 % des importations totales (Section 1.4)."
+  },
+  {
+    "id": "c1_q19",
+    "chapterId": 3,
+    "question": "Quel produit concentre la part la plus importante de la facture d'importation agricole tunisienne en 2017 ?",
+    "options": [
+      "Les huiles végétales (13 %)",
+      "Le sucre (12 %)",
+      "Les céréales (31 %)",
+      "Les aliments pour animaux (11 %)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "En 2017, les importations agricoles étaient concentrées sur six produits, les céréales occupant la première place avec 31 % de l'enveloppe totale (Section 1.4)."
+  },
+  {
+    "id": "c1_q20",
+    "chapterId": 3,
+    "question": "Quels pays se placent comme premier fournisseur historique global de la Tunisie et deuxième fournisseur de blé dur en 2017 ?",
+    "options": [
+      "Le Brésil (1er fournisseur global) et le Canada (2e blé dur)",
+      "L'Union européenne (1er fournisseur global) et l'Ukraine (2e blé dur)",
+      "La France (1er fournisseur global) et les États-Unis (2e blé dur)",
+      "L'Ukraine (1er fournisseur global) et le Brésil (2e blé dur)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'Union européenne demeure le premier fournisseur historique avec 25 % des parts, talonnée par l'Ukraine, qui est le deuxième fournisseur de blé dur (Section 1.4)."
+  },
+  {
+    "id": "c1_q21",
+    "chapterId": 3,
+    "question": "Sur quel choix de politique macroéconomique reposait le modèle productiviste agricole tunisien de 1960 à 1985 ?",
+    "options": [
+      "L'intégration commerciale multilatérale",
+      "Une stratégie d'industrialisation par substitution aux importations",
+      "Le développement exclusif de l'agriculture pluviale",
+      "La promotion des exportations de produits manufacturés"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Au cours de la période 1960-1985, le choix reposait sur une stratégie d'industrialisation par substitution aux importations, l'agriculture devant fournir un surplus net au reste de l'économie (Section 2.1)."
+  },
+  {
+    "id": "c1_q22",
+    "chapterId": 3,
+    "question": "Comment s'est opérée principalement l'extraction du surplus agricole au profit des secteurs urbains dans le modèle productiviste ?",
+    "options": [
+      "Par des taxes d'exportation directes",
+      "Par des interventions directes sur les prix modifiant les termes de l'échange au détriment de l'agriculture",
+      "Par la privatisation massive des terres collectives",
+      "Par l'imposition directe sur le revenu des exploitants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'extraction du surplus s'est opérée principalement par des interventions directes sur les prix, modifiant les termes de l'échange au détriment du secteur agricole (Section 2.1)."
+  },
+  {
+    "id": "c1_q23",
+    "chapterId": 3,
+    "question": "Quelle part des investissements agricoles publics le développement de la grande hydraulique a-t-il absorbé durant la décennie 1980-1989 ?",
+    "options": [
+      "11 %",
+      "27 %",
+      "37 %",
+      "44 %"
+    ],
+    "correctAnswer": 3,
+    "explanation": "La grande hydraulique a constitué une priorité nationale absolue, absorbant jusqu'à 44 % des investissements agricoles publics au cours de la décennie 1980-1989 (Section 2.1)."
+  },
+  {
+    "id": "c1_q24",
+    "chapterId": 3,
+    "question": "Combien de barrages ont été construits grâce aux investissements publics en grande hydraulique lancés dans les années 1980 ?",
+    "options": [
+      "12 barrages",
+      "33 barrages",
+      "775 barrages",
+      "77 barrages"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le programme d'investissements publics a permis la construction de 33 barrages et la collecte de plus de 90 % des eaux mobilisables (Section 2.1)."
+  },
+  {
+    "id": "c1_q25",
+    "chapterId": 3,
+    "question": "Quelle a été l'évolution de la consommation moyenne d'engrais chimiques en Tunisie entre 1969-1971 et 1991-1993 ?",
+    "options": [
+      "De 8 kg/ha à 14 kg/ha",
+      "De 14 kg/ha à 19 kg/ha",
+      "De 8 kg/ha à 19 kg/ha",
+      "De 19 kg/ha à 31 kg/ha"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La consommation d'engrais chimiques est passée de 8 kg/ha en 1969-1971 à 14 kg/ha en 1979-1981, puis à 19 kg/ha en 1991-1993 (Section 2.1)."
+  },
+  {
+    "id": "c1_q26",
+    "chapterId": 3,
+    "question": "Comment le taux de couverture en équipements mécaniques (exprimé en hectares par tracteur) a-t-il évolué entre 1969-1971 et 1979-1981 ?",
+    "options": [
+      "Il a augmenté de 185 à 213 ha/tracteur",
+      "Il s'est amélioré, passant de 213 à 185 ha/tracteur",
+      "Il est resté stable à 190 ha/tracteur",
+      "Il s'est détérioré à 300 ha/tracteur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La mécanisation s'est renforcée, faisant passer le ratio de 213 hectares par tracteur en 1969-1971 à 185 ha/tracteur en 1979-1981 (Section 2.1)."
+  },
+  {
+    "id": "c1_q27",
+    "chapterId": 3,
+    "question": "À combien s'est établi le ratio capital-output (Coefficient d'efficacité - CI) de l'agriculture tunisienne sur la période de détérioration de 1980-1987 ?",
+    "options": [
+      "1,96",
+      "3,04",
+      "4,41",
+      "6,11"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le ratio capital-output (CI) de l'agriculture globale s'est détérioré durant les années 1980-1987, atteignant 6,11 contre 3,04 en 1970-1979 (Section 2.1)."
+  },
+  {
+    "id": "c1_q28",
+    "chapterId": 3,
+    "question": "Quel était le Coefficient d'efficacité (CI) du capital dans les cultures irriguées par rapport aux cultures en sec sur la période 1980-1987 ?",
+    "options": [
+      "6,11 pour l'irrigué contre 3,04 pour le sec",
+      "11,42 pour l'irrigué contre 4,41 pour le sec",
+      "2,40 pour l'irrigué contre 1,96 pour le sec",
+      "4,41 pour l'irrigué contre 11,42 pour le sec"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'inefficacité du capital a été particulièrement forte dans les cultures irriguées avec un CI de 11,42, en raison de la sous-utilisation des périmètres équipés, contre un CI bien plus efficient de 4,41 en sec (Section 2.1)."
+  },
+  {
+    "id": "c1_q29",
+    "chapterId": 3,
+    "question": "Quelle était l'efficience du capital (CI) sur la période d'amélioration de 1988-1994 pour l'agriculture globale et irriguée ?",
+    "options": [
+      "6,11 global et 11,42 irrigué",
+      "3,04 global et 4,41 irrigué",
+      "1,96 global et 2,40 irrigué",
+      "1,11 global et 1,83 irrigué"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La Section 2.1 indique que le CI s'est amélioré sur la période 1988-1994, retombant à 1,96 pour l'agriculture globale et 2,40 pour le secteur irrigué."
+  },
+  {
+    "id": "c1_q30",
+    "chapterId": 3,
+    "question": "En quelle année la Tunisie a-t-elle mis en œuvre le Programme d'Ajustement Structurel Agricole (PASA) ?",
+    "options": [
+      "1960",
+      "1980",
+      "1986",
+      "1994"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La Tunisie a mis en œuvre le Programme d'Ajustement Structurel Agricole (PASA) à partir de l'année 1986 (Section 2.2)."
+  },
+  {
+    "id": "c1_q31",
+    "chapterId": 3,
+    "question": "Quels sont les piliers du modèle libéral introduit par le PASA en Tunisie ?",
+    "options": [
+      "La collectivisation des terres et le monopole d'État",
+      "La 'vérité des prix', la libéralisation progressive du marché des intrants et la réduction des subventions",
+      "La fixation administrative obligatoire des prix de tous les fruits et légumes",
+      "L'augmentation des subventions publiques sur l'eau d'irrigation et l'engrais"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le modèle du PASA s'appuie sur la 'vérité des prix', la libéralisation progressive des marchés d'intrants et la réduction des subventions d'État sur l'eau, le crédit, les engrais, les semences et les pesticides (Section 2.2)."
+  },
+  {
+    "id": "c1_q32",
+    "chapterId": 3,
+    "question": "À combien s'est élevé le ratio des termes de l'échange (TE) de l'agriculture en 1993, comparé à l'année de lancement du PASA en 1986 ?",
+    "options": [
+      "Il est passé de 0,71 en 1986 à 0,44 en 1993",
+      "Il est passé de 0,92 en 1986 à 1,11 en 1993",
+      "Il est resté stable à 1,00",
+      "Il a chuté de 1,11 en 1986 à 0,92 en 1993"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le ratio des termes de l'échange (TE) est passé de 0,92 en 1986 à 1,11 en 1993, corrigeant en partie le biais historique contre l'agriculture (Section 2.2)."
+  },
+  {
+    "id": "c1_q33",
+    "chapterId": 3,
+    "question": "Quels étaient l'indice des prix agricoles à la production (IPA) et l'indice des prix non agricoles (IPNA) en 1993 (base 100 en 1986) ?",
+    "options": [
+      "IPA = 100 et IPNA = 100",
+      "IPA = 183 et IPNA = 202",
+      "IPA = 202 et IPNA = 183",
+      "IPA = 111 et IPNA = 92"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'indice des prix agricoles à la production (IPA) est grimpé à 202 en 1993, dépassant l'indice des prix non agricoles (IPNA) établi à 183 (Section 2.2)."
+  },
+  {
+    "id": "c1_q34",
+    "chapterId": 3,
+    "question": "Que démontre l'analyse économique de la filière sucrière (betterave à sucre) en Tunisie via le coefficient de coût en ressources domestiques (CRD) ?",
+    "options": [
+      "La Tunisie possède un avantage comparatif fort (CRD < 1)",
+      "Il faut engager 18 dinars de ressources tunisiennes pour générer seulement 1 dinar de valeur ajoutée privée aux prix mondiaux",
+      "L'eau d'irrigation de la betterave est autofinancée à 100 % par les agriculteurs",
+      "La profitabilité privée est assurée sans aucun transfert du budget de l'État"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'analyse montre que le CRD est très défavorable : il faut engager 18 dinars de ressources tunisiennes pour générer seulement 1 dinar de valeur ajoutée privée aux prix mondiaux. La profitabilité n'est assurée qu'aux dépens de subventions massives (Section 2.2)."
+  },
+  {
+    "id": "c1_q35",
+    "chapterId": 3,
+    "question": "Quelle part de l'ensemble des investissements agricoles le système bancaire classique couvre-t-il directement dans le modèle de soutien à l'agriculture familiale ?",
+    "options": [
+      "7 %",
+      "11 %",
+      "12 %",
+      "89 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le système bancaire ne couvre directement que 11 % de l'ensemble des investissements agricoles, l'autofinancement et le crédit fournisseur représentant le reste (Section 2.3)."
+  },
+  {
+    "id": "c1_q36",
+    "chapterId": 3,
+    "question": "Dans le modèle d'agriculture familiale, quel pourcentage d'exploitants agricoles bénéficie d'un prêt bancaire formel ?",
+    "options": [
+      "3 %",
+      "7 %",
+      "11 %",
+      "12 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Section 2.3 indique que seulement 7 % des exploitants agricoles bénéficient d'un prêt bancaire formel."
+  },
+  {
+    "id": "c1_q37",
+    "chapterId": 3,
+    "question": "Quelle est la part du marché mondial de dattes détenue par la Tunisie en valeur, et sur quelle variété est-elle spécialisée ?",
+    "options": [
+      "10 % de parts mondiales sur la variété Alig",
+      "20 % de parts mondiales sur la variété Deglet Nour",
+      "35 % de parts mondiales sur la variété Kenta",
+      "3 % de parts mondiales sur la variété Deglet Nour"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Tunisie est le premier pays exportateur de dattes en valeur, détenant 20 % du marché mondial, avec une spécialisation forte sur la variété Deglet Nour (Section 2.3)."
+  },
+  {
+    "id": "c1_q38",
+    "chapterId": 3,
+    "question": "En 2017, quelle part de la production nationale d'agrumes les exportations représentaient-elles, illustrant le déclin de cette filière ?",
+    "options": [
+      "3 %",
+      "11 %",
+      "15,3 %",
+      "20 %"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les exportations agrumicoles ont reculé continuellement depuis dix ans, ne représentant plus que 3 % de la production nationale en 2017 (Section 2.3)."
+  },
+  {
+    "id": "c1_q39",
+    "chapterId": 3,
+    "question": "À combien s'élève la dotation moyenne d'eau par habitant et par an en Tunisie, et par rapport à quel seuil critique de stress hydrique se situe-t-elle ?",
+    "options": [
+      "372,8 m³/hab/an (seuil critique à 843,6)",
+      "450 m³/hab/an (seuil critique absolu à 500 m³/hab/an)",
+      "283,6 m³/hab/an (seuil critique à 372,8)",
+      "500 m³/hab/an (seuil critique à 1 000)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Avec une dotation moyenne de 450 m³ d'eau par habitant et par an, la Tunisie se situe sous le seuil critique absolu du stress hydrique fixé à 500 m³/hab/an (Section 2.4)."
+  },
+  {
+    "id": "c1_q40",
+    "chapterId": 3,
+    "question": "Depuis les années 1990, de quelle approche vers quelle autre approche la politique tunisienne de l'eau s'est-elle réorientée ?",
+    "options": [
+      "D'une politique de maîtrise de la demande vers une politique d'augmentation continue de l'offre",
+      "D'une politique de l'offre (mobilisation par les barrages) vers une politique de maîtrise de la demande (économie d'eau)",
+      "Du traitement tertiaire des eaux usées vers le stockage d'eau souterraine",
+      "De l'irrigation localisée vers l'irrigation par submersion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La politique de l'eau s'est réorientée depuis les années 1990 d'une politique de l'offre (mobilisation par les barrages) vers une politique de maîtrise de la demande (économie d'eau dans les périmètres irrigués) (Section 2.4)."
+  },
+  {
+    "id": "c1_q41",
+    "chapterId": 3,
+    "question": "Quelle est la superficie totale du Maroc comparée à celle de la Tunisie d'après les indicateurs structurels de 2017 ?",
+    "options": [
+      "446 550 Km² pour le Maroc et 163 610 Km² pour la Tunisie",
+      "1 001 450 Km² pour le Maroc et 163 610 Km² pour la Tunisie",
+      "2 381 740 Km² pour le Maroc et 446 550 Km² pour la Tunisie",
+      "163 610 Km² pour le Maroc et 2 381 740 Km² pour la Tunisie"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Selon la Section 3.1 (Tableau 3.1), la superficie du Maroc est de 446 550 Km² et celle de la Tunisie est de 163 610 Km²."
+  },
+  {
+    "id": "c1_q42",
+    "chapterId": 3,
+    "question": "Quelle était la population de l'Égypte en 2017 selon le Tableau 3.1 comparatif de la région MENA ?",
+    "options": [
+      "11,5 millions",
+      "35,7 millions",
+      "41,3 millions",
+      "97,5 millions"
+    ],
+    "correctAnswer": 3,
+    "explanation": "En 2017, la population de l'Égypte s'élevait à 97,5 millions de personnes (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q43",
+    "chapterId": 3,
+    "question": "Quel pays de la zone MENA affiche le PIB par habitant le plus élevé en 2017 parmi l'Égypte, l'Algérie, le Maroc et la Tunisie ?",
+    "options": [
+      "Le Maroc",
+      "La Tunisie",
+      "L'Algérie",
+      "L'Égypte"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le Tableau 3.1 de la Section 3.1 indique les PIB par habitant en USD courants : Algérie (4 123,4), Tunisie (3 490,8), Maroc (3 007,2) et Égypte (2 412,7)."
+  },
+  {
+    "id": "c1_q44",
+    "chapterId": 3,
+    "question": "Quel était le taux de croissance du PIB en Tunisie en 2017 comparé à celui du Maroc ?",
+    "options": [
+      "1,9 % pour la Tunisie contre 4,1 % pour le Maroc",
+      "4,1 % pour la Tunisie contre 1,9 % pour le Maroc",
+      "1,7 % pour la Tunisie contre 4,2 % pour le Maroc",
+      "1,9 % pour la Tunisie contre 1,7 % pour le Maroc"
+    ],
+    "correctAnswer": 0,
+    "explanation": "En 2017, le taux de croissance du PIB de la Tunisie était de 1,9 % tandis que celui du Maroc s'élevait à 4,1 % (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q45",
+    "chapterId": 3,
+    "question": "Quelle était la part de l'agriculture dans le PIB de la Tunisie en 2017 ?",
+    "options": [
+      "13,0 %",
+      "9,2 %",
+      "12,2 %",
+      "11,5 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Selon le Tableau 3.1 de la Section 3.1, la part de l'agriculture dans le PIB tunisien était de 9,2 % en 2017."
+  },
+  {
+    "id": "c1_q46",
+    "chapterId": 3,
+    "question": "Quelle était la part de l'agriculture dans le PIB de l'Algérie en 2016 ?",
+    "options": [
+      "9,2 %",
+      "11,5 %",
+      "12,2 %",
+      "13,0 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La part de l'agriculture dans le PIB de l'Algérie pour l'année 2016 s'élevait à 12,2 % (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q47",
+    "chapterId": 3,
+    "question": "Comment se compare la balance commerciale agricole globale de la Tunisie avec celle du Maroc en 2017 ?",
+    "options": [
+      "La Tunisie est déficitaire à -797 M$ tandis que le Maroc est excédentaire à +242 M$",
+      "La Tunisie est excédentaire à +95 M$ tandis que le Maroc est excédentaire à +1900 M$",
+      "La Tunisie est déficitaire à -797 M$ tandis que le Maroc est déficitaire à -9063 M$",
+      "La Tunisie est excédentaire à +242 M$ tandis que le Maroc est déficitaire à -797 M$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "En 2017, la balance commerciale agricole mondiale de la Tunisie était déficitaire de -797 millions de dollars, alors que celle du Maroc affichait un excédent de +242 millions de dollars (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q48",
+    "chapterId": 3,
+    "question": "Quel était le solde de la balance commerciale agricole tunisienne avec l'Union européenne en 2017 ?",
+    "options": [
+      "+1,9 milliard de dollars",
+      "+95 millions de dollars",
+      "-797 millions de dollars",
+      "-2 815 millions de dollars"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Tunisie a enregistré un excédent modeste de +95 millions de dollars avec l'Union européenne en 2017 (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q49",
+    "chapterId": 3,
+    "question": "Quelle était la balance commerciale agricole globale de l'Algérie en 2017 ?",
+    "options": [
+      "-797 millions de dollars",
+      "-8 750 millions de dollars",
+      "-9 063 millions de dollars",
+      "-2 815 millions de dollars"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'Algérie affiche un déficit commercial agricole colossal de -9 063 millions de dollars courants au niveau mondial en 2017 (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q50",
+    "chapterId": 3,
+    "question": "Quelle était la balance commerciale agricole de l'Algérie avec l'Union européenne en 2017 ?",
+    "options": [
+      "-1 070 millions de dollars",
+      "-2 815 millions de dollars",
+      "-9 063 millions de dollars",
+      "+95 millions de dollars"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La balance commerciale agricole de l'Algérie avec l'UE en 2017 s'est établie à -2 815 millions de dollars (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q51",
+    "chapterId": 3,
+    "question": "Quel était le solde de la balance commerciale agricole globale de l'Égypte en 2017 ?",
+    "options": [
+      "-8 750 millions de dollars courants",
+      "-1 070 millions de dollars courants",
+      "-9 063 millions de dollars courants",
+      "-797 millions de dollars courants"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le solde de la balance commerciale agricole mondiale de l'Égypte était de -8 750 millions de dollars courants en 2017 (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q52",
+    "chapterId": 3,
+    "question": "Quel était le pourcentage de terres irriguées en Tunisie en 2011 ?",
+    "options": [
+      "2,9 %",
+      "4,6 %",
+      "7,4 %",
+      "8,1 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La part des terres irriguées en Tunisie s'élevait à 4,6 % en 2011 (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q53",
+    "chapterId": 3,
+    "question": "Quelle était la part des terres irriguées au Maroc en 2015 ?",
+    "options": [
+      "2,9 %",
+      "4,6 %",
+      "7,4 %",
+      "8,1 %"
+    ],
+    "correctAnswer": 3,
+    "explanation": "La part des terres irriguées au Maroc s'élevait à 8,1 % en 2015, d'après les données d'Aquastat du Tableau 3.1."
+  },
+  {
+    "id": "c1_q54",
+    "chapterId": 3,
+    "question": "Quel est le pourcentage de terres irriguées en Algérie (données 2015) ?",
+    "options": [
+      "2,9 %",
+      "4,6 %",
+      "7,4 %",
+      "8,1 %"
+    ],
+    "correctAnswer": 0,
+    "explanation": "En Algérie, seulement 2,9 % des terres étaient irriguées en 2015 (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q55",
+    "chapterId": 3,
+    "question": "Quel est le pourcentage de terres irriguées en Égypte (données 2015) ?",
+    "options": [
+      "2,9 %",
+      "4,6 %",
+      "7,4 %",
+      "8,1 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'Égypte présentait 7,4 % de terres irriguées le long du Nil en 2015 (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q56",
+    "chapterId": 3,
+    "question": "Quel volume moyen annuel d'eau renouvelable par habitant la Tunisie disposait-elle en 2018 ?",
+    "options": [
+      "19,67 m³/an",
+      "283,6 m³/an",
+      "372,8 m³/an",
+      "843,6 m³/an"
+    ],
+    "correctAnswer": 2,
+    "explanation": "En 2018, les ressources d'eau renouvelable par habitant s'élevaient à 372,8 m³/an en Tunisie (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q57",
+    "chapterId": 3,
+    "question": "Quelle était la dotation d'eau renouvelable par habitant au Maroc en 2018 ?",
+    "options": [
+      "19,67 m³/an",
+      "283,6 m³/an",
+      "372,8 m³/an",
+      "843,6 m³/an"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le Maroc disposait de 843,6 m³/hab/an d'eau renouvelable en 2018 (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q58",
+    "chapterId": 3,
+    "question": "Quelle était la quantité d'eau renouvelable par habitant en Égypte en 2014, témoignant de sa vulnérabilité hydrique extérieure totale ?",
+    "options": [
+      "19,67 m³/an",
+      "283,6 m³/an",
+      "372,8 m³/an",
+      "843,6 m³/an"
+    ],
+    "correctAnswer": 0,
+    "explanation": "En Égypte, les ressources d'eau renouvelable internes propres par habitant étaient extrêmement dérisoires, s'élevant à 19,67 m³/an en 2014 (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q59",
+    "chapterId": 3,
+    "question": "Quels sont les effectifs de population rurale et le taux de croissance démographique rurale associés à l'Égypte en 2017 ?",
+    "options": [
+      "13,0 millions (-0,12 %)",
+      "3,0 millions (+0,18 %)",
+      "11,0 millions (-0,3 %)",
+      "55,0 millions (+1,97 %)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "En Égypte, la population rurale comptait 55,0 millions de personnes avec un taux de croissance annuel de +1,97 % en 2017 (Section 3.1, Tableau 3.1)."
+  },
+  {
+    "id": "c1_q60",
+    "chapterId": 3,
+    "question": "Quelle est l'évolution de la population rurale en Tunisie en 2017 en valeur absolue et en taux de croissance ?",
+    "options": [
+      "13,0 millions (-0,12 %)",
+      "3,0 millions (+0,18 %)",
+      "11,0 millions (-0,3 %)",
+      "55,0 millions (+1,97 %)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Tableau 3.1 de la Section 3.1 indique qu'en 2017, la population rurale en Tunisie était de 3,0 millions de personnes avec un taux de croissance annuel de +0,18 %."
+  },
+  {
+    "id": "c1_q61",
+    "chapterId": 3,
+    "question": "Quel est le nombre total d'exploitations agricoles estimé en Tunisie sur l'ensemble de la SAU ?",
+    "options": [
+      "Entre 100 000 et 150 000",
+      "Entre 355 000 et 387 000",
+      "Entre 510 000 et 518 000",
+      "Plus de 1 000 000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La Tunisie compte entre 510 000 et 518 000 exploitations agricoles (Section 4.1)."
+  },
+  {
+    "id": "c1_q62",
+    "chapterId": 3,
+    "question": "Quelle est la superficie agricole utile (SAU) exploitée totale en Tunisie ?",
+    "options": [
+      "1,67 million d'hectares",
+      "5,0 millions d'hectares",
+      "9,3 millions d'hectares",
+      "16,3 millions d'hectares"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La superficie agricole utile (SAU) exploitée en Tunisie est de 9,3 millions d'hectares (Section 4.1)."
+  },
+  {
+    "id": "c1_q63",
+    "chapterId": 3,
+    "question": "Quelle part du nombre total de fermes représentent les petites exploitations de moins de 5 ha, et quelle part de la SAU totale occupent-elles ?",
+    "options": [
+      "35 % des fermes pour 53 % de la SAU",
+      "54 % des fermes pour 11 % de la SAU",
+      "75 % des fermes pour 25 % de la SAU",
+      "4 % des fermes pour 36 % de la SAU"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les petites et très petites exploitations (moins de 5 ha) représentent 54 % du total des fermes mais n'occupent que 11 % de la SAU exploitée (Section 4.1)."
+  },
+  {
+    "id": "c1_q64",
+    "chapterId": 3,
+    "question": "Quelle part du nombre total d'exploitations et quelle superficie occupent les exploitations de moins de 10 ha en Tunisie ?",
+    "options": [
+      "54 % des fermes pour 11 % de la SAU",
+      "75 % des fermes pour 25 % de la SAU",
+      "3 % des fermes pour 34 % de la SAU",
+      "86 % des fermes pour 50 % de la SAU"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les exploitations de moins de 10 ha représentent 75 % des fermes pour seulement 25 % de la SAU (Section 4.1)."
+  },
+  {
+    "id": "c1_q65",
+    "chapterId": 3,
+    "question": "Quelle part des exploitations et de la SAU détiennent les grandes exploitations de plus de 50 ha en Tunisie ?",
+    "options": [
+      "11 % des exploitations pour 54 % de la SAU",
+      "25 % des exploitations pour 75 % de la SAU",
+      "3 % à 4 % des exploitations pour 34 % à 36 % de la SAU",
+      "52 % des exploitations pour 13 % de la SAU"
+    ],
+    "correctAnswer": 2,
+    "explanation": "À l'autre extrémité du dualisme foncier, les grandes exploitations (plus de 50 ha) ne représentent que 3 % à 4 % du nombre total de fermes, mais concentrent entre 34 % et 36 % de la SAU (Section 4.1)."
+  },
+  {
+    "id": "c1_q66",
+    "chapterId": 3,
+    "question": "Quel est le nombre moyen de parcelles physiques par exploitation agricole en Tunisie ?",
+    "options": [
+      "1,5 parcelle",
+      "3,2 parcelles",
+      "6,1 parcelles",
+      "11 parcelles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le morcellement parcellaire est marqué par un nombre moyen de 3,2 parcelles par exploitation (Section 4.1)."
+  },
+  {
+    "id": "c1_q67",
+    "chapterId": 3,
+    "question": "Quelle proportion des exploitations agricoles tunisiennes est totalement dépourvue de titres de propriété de forme légale ?",
+    "options": [
+      "7 %",
+      "13 %",
+      "34 %",
+      "43 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'absence d'adaptation des structures agraires fait que 34 % des exploitations tunisiennes sont dépourvues de titres de propriété légaux (Section 4.1)."
+  },
+  {
+    "id": "c1_q68",
+    "chapterId": 3,
+    "question": "Quel pourcentage des baux ruraux en Tunisie présente une durée précaire de moins de trois ans ?",
+    "options": [
+      "11 %",
+      "28 %",
+      "34 %",
+      "43 %"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Près de 43 % des baux ruraux ont une durée précaire inférieure à trois ans, limitant les investissements à long terme (Section 4.1)."
+  },
+  {
+    "id": "c1_q69",
+    "chapterId": 3,
+    "question": "Quelle est la principale conséquence de l'absence de titres de propriété légaux pour 34 % des exploitants ?",
+    "options": [
+      "L'exclusion du système bancaire classique pour l'accès aux crédits d'investissement",
+      "L'obligation de vendre la récolte exclusivement à l'Office des Céréales",
+      "La diminution de l'érosion hydrique de leurs parcelles",
+      "L'exonération totale de toutes les taxes parafiscales"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'absence de titre légal de propriété exclut d'emblée ces agriculteurs du système bancaire classique car les banques exigent des hypothèques foncières pour octroyer des crédits d'investissement (Section 4.1)."
+  },
+  {
+    "id": "c1_q70",
+    "chapterId": 3,
+    "question": "Quels organismes gèrent les grands domaines publics exploités sous forme de terres domaniales de l'État ?",
+    "options": [
+      "Les Sociétés Mutuelles de Services Agricoles (SMSA)",
+      "Les Groupements de Développement Agricole (GDA)",
+      "L'Office des Terres Domaniales (OTD) et les SMVDA",
+      "Les Commissariats Régionaux au Développement Agricole (CRDA)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les grandes superficies agricoles publiques sont exploitées sous forme d'agro-combinats par l'Office des Terres Domaniales (OTD) et par les SMVDA (Section 4.1)."
+  },
+  {
+    "id": "c1_q71",
+    "chapterId": 3,
+    "question": "Combien de grands systèmes de production distingue-t-on en Tunisie, reflets de sa diversité bioclimatique ?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "correctAnswer": 2,
+    "explanation": "On distingue sept grands systèmes de production en Tunisie, reflets de la diversité bioclimatique du pays (Section 4.2)."
+  },
+  {
+    "id": "c1_q72",
+    "chapterId": 3,
+    "question": "Dans quelles plaines tunisiennes le système céréalier de grandes cultures est-il principalement localisé ?",
+    "options": [
+      "Plaines côtières de Sousse et Monastir",
+      "Plaines humides et semi-arides du Nord (Béja, Jendouba, Bizerte)",
+      "Oasis de Tozeur et Kébili",
+      "Plaines arides de Médenine et Tataouine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le système céréalier est localisé principalement dans les plaines humides et semi-arides du Nord : Béja, Jendouba, Bizerte (Section 4.2)."
+  },
+  {
+    "id": "c1_q73",
+    "question": "Quelle part des surfaces cultivées en Tunisie le système céréalier occupe-t-il ?",
+    "chapterId": 3,
+    "options": [
+      "8 %",
+      "11 %",
+      "27 %",
+      "54 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le système céréalier occupe 27 % des surfaces cultivées en Tunisie (Section 4.2)."
+  },
+  {
+    "id": "c1_q74",
+    "chapterId": 3,
+    "question": "Comment la production nationale cumulée de céréales a-t-elle évolué entre la période 2002-2006 et la période 2012-2016 ?",
+    "options": [
+      "Elle a augmenté de 83,39 à 94,46 millions de quintaux",
+      "Elle a glissé de 94,46 millions de quintaux à 83,39 millions de quintaux",
+      "Elle est restée stable à 100 millions de quintaux",
+      "Elle a chuté à moins de 50 millions de quintaux"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La production nationale cumulée de céréales a glissé à 83,39 millions de quintaux sur la période 2012-2016, contre 94,46 millions sur la période 2002-2006, illustrant sa vulnérabilité climatique (Section 4.2)."
+  },
+  {
+    "id": "c1_q75",
+    "chapterId": 3,
+    "question": "Quelle est la superficie totale couverte par l'oléiculture en Tunisie ?",
+    "options": [
+      "370 000 hectares",
+      "1,1 million d'hectares",
+      "1,672 million d'hectares",
+      "9,3 millions d'hectares"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'oléiculture (arboriculture en sec) couvre une superficie de 1,672 million d'hectares en Tunisie (Section 4.2)."
+  },
+  {
+    "id": "c1_q76",
+    "chapterId": 3,
+    "question": "Quelle région de la Tunisie concentre la part majoritaire (65 %) des oliveraies en sec ?",
+    "options": [
+      "Le Nord-Ouest",
+      "Le Centre",
+      "Le Sud oasien",
+      "Le Cap Bon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'oléiculture est principalement concentrée en sec dans le Centre de la Tunisie, qui abrite 65 % des oliveraies (Section 4.2)."
+  },
+  {
+    "id": "c1_q77",
+    "chapterId": 3,
+    "question": "Quelle part de la valeur de la production agricole totale les cultures maraîchères et fruitières intensives représentent-elles ?",
+    "options": [
+      "4,6 %",
+      "10,2 %",
+      "15,3 %",
+      "37 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les cultures maraîchères et fruitières intensives représentent 15,3 % de la valeur de la production agricole totale, soit 1 593 MDT sur la période 2014-2016 (Section 4.2)."
+  },
+  {
+    "id": "c1_q78",
+    "chapterId": 3,
+    "question": "Dans quel gouvernorat se situe l'ultra-concentration de la production agrumicole tunisienne (69 % des superficies et 74 % de la production nationale) ?",
+    "options": [
+      "Béja",
+      "Sidi Bouzid",
+      "Nabeul (Cap Bon)",
+      "Kébili"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La filière agrumicole est ultra-concentrée dans la presqu'île du Cap Bon (gouvernorat de Nabeul) qui abrite 69 % des superficies et génère 74 % de la production (Section 4.2)."
+  },
+  {
+    "id": "c1_q79",
+    "chapterId": 3,
+    "question": "Combien de vaches laitières compte le cheptel bovin laitier tunisien et où est-il majoritairement concentré (70 %) ?",
+    "options": [
+      "200 000 vaches (concentrées dans le Sud)",
+      "438 000 vaches (concentrées à 70 % dans le Nord)",
+      "505 800 vaches (concentrées dans le Centre)",
+      "1 000 000 de vaches (concentrées dans le Sahel)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le système d'élevage bovin laitier compte 438 000 vaches laitières, concentrées à 70 % dans le Nord de la Tunisie (Section 4.2)."
+  },
+  {
+    "id": "c1_q80",
+    "chapterId": 3,
+    "question": "Quelle est la part de la SAU occupée par les systèmes irrigués et quelle part de la valeur ajoutée agricole nationale génèrent-ils ?",
+    "options": [
+      "8 % de la SAU pour 37 % de la valeur ajoutée",
+      "27 % de la SAU pour 20 % de la valeur ajoutée",
+      "4,6 % de la SAU pour 11 % de la valeur ajoutée",
+      "11 % de la SAU pour 54 % de la valeur ajoutée"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bien qu'ils n'occupent que 8 % de la SAU utile, les systèmes irrigués génèrent 37 % de la valeur ajoutée agricole nationale (Section 4.2)."
+  },
+  {
+    "id": "c1_q81",
+    "chapterId": 3,
+    "question": "Quelle est la contribution du système irrigué à l'emploi agricole et aux exportations du secteur ?",
+    "options": [
+      "14,5 % de l'emploi et 11 % des exportations",
+      "27 % de l'emploi et 20 % des exportations",
+      "37 % de l'emploi et 15,3 % des exportations",
+      "52 % de l'emploi et 36,5 % des exportations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les systèmes irrigués génèrent 27 % de l'emploi du secteur agricole et 20 % de ses exportations (Section 4.2)."
+  },
+  {
+    "id": "c1_q82",
+    "chapterId": 3,
+    "question": "Quels gouvernorats du Sud tunisien sont spécialisés dans le système de production oasien de dattes Deglet Nour ?",
+    "options": [
+      "Sfax, Gabès et Médenine",
+      "Tozeur, Kébili et Gabès",
+      "Gafsa, Sidi Bouzid et Kasserine",
+      "Tataouine, Médenine et Douz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les systèmes oasiens sont spécialisés dans la production de dattes Deglet Nour dans le Sud, à Tozeur, Kébili, Gabès (Section 4.2)."
+  },
+  {
+    "id": "c1_q83",
+    "chapterId": 3,
+    "question": "À quel problème structurel de cheptel arboricole le système oasien fait-il face ?",
+    "options": [
+      "L'absence totale d'eau d'irrigation",
+      "Un vieillissement important avec plus d'un million de palmiers à régénérer",
+      "Le gel des cultures de dattes en hiver",
+      "L'obligation de n'utiliser que des engrais chimiques complexes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les oasis sont confrontées à un vieillissement important du cheptel arboricole avec plus d'un million de palmiers à régénérer (Section 4.2)."
+  },
+  {
+    "id": "c1_q84",
+    "chapterId": 3,
+    "question": "Quelle part de la consommation d'eau mobilisable est absorbée par l'irrigation agricole en Tunisie ?",
+    "options": [
+      "24 %",
+      "44 %",
+      "66 %",
+      "80 %"
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'irrigation consomme 80 % de l'eau mobilisable en Tunisie (Section 4.2)."
+  },
+  {
+    "id": "c1_q85",
+    "chapterId": 3,
+    "question": "Quel était le taux d'exploitation des nappes phréatiques tunisiennes en 2015 du fait de la surexploitation agricole ?",
+    "options": [
+      "60 %",
+      "80 %",
+      "100 %",
+      "120 %"
+    ],
+    "correctAnswer": 3,
+    "explanation": "La surexploitation des nappes phréatiques a conduit à un taux d'exploitation de 120 % en 2015 (Section 4.2)."
+  },
+  {
+    "id": "c1_q86",
+    "chapterId": 3,
+    "question": "Quelle superficie de terres productives la Tunisie perd-elle chaque année à cause de l'érosion hydrique ?",
+    "options": [
+      "3 200 hectares",
+      "11 000 hectares",
+      "25 000 hectares",
+      "370 000 hectares"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'érosion hydrique engendre la perte annuelle de 11 000 hectares de terres productives en Tunisie (Section 4.2)."
+  },
+  {
+    "id": "c1_q87",
+    "chapterId": 3,
+    "question": "Combien de terres non renouvelables sont détruites de manière irréversible chaque année par la désertification en Tunisie ?",
+    "options": [
+      "11 000 hectares",
+      "25 000 hectares",
+      "34 000 hectares",
+      "505 800 hectares"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La désertification détruit de manière irréversible 25 000 hectares de terres non renouvelables par an (Section 4.2)."
+  },
+  {
+    "id": "c1_q88",
+    "chapterId": 3,
+    "question": "Combien d'hectares d'aménagements superficiels (banquettes, tabias, cuvettes) ont été réalisés lors des stratégies nationales CES I (1990-2001) et CES II (2002-2011) ?",
+    "options": [
+      "370 000 hectares",
+      "505 800 hectares",
+      "1 100 000 hectares",
+      "1 532 863 hectares"
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'État a mené des programmes massifs de CES, réalisant 1 532 863 hectares d'aménagements superficiels au cours des deux stratégies (Section 2.4 / 4.2)."
+  },
+  {
+    "id": "c1_q89",
+    "chapterId": 3,
+    "question": "Quelle était la superficie certifiée biologique en Tunisie en 2017 ?",
+    "options": [
+      "11 000 hectares",
+      "25 000 hectares",
+      "370 000 hectares",
+      "1,53 million d'hectares"
+    ],
+    "correctAnswer": 2,
+    "explanation": "En 2017, la Tunisie comptait 370 000 hectares certifiés biologiques (Section 2.4)."
+  },
+  {
+    "id": "c1_q90",
+    "chapterId": 3,
+    "question": "Quelle part des oliveraies tunisiennes n'utilise aucun produit chimique selon la Direction Générale de l'Agriculture Biologique (DGAB) ?",
+    "options": [
+      "36,5 %",
+      "54 %",
+      "75 %",
+      "95 %"
+    ],
+    "correctAnswer": 3,
+    "explanation": "La DGAB estime que 95 % des oliveraies tunisiennes n'utilisent aucun produit chimique, offrant un potentiel de conversion biologique d'un million d'hectares (Section 2.4)."
+  },
+  {
+    "id": "c1_q91",
+    "chapterId": 3,
+    "question": "Quelle proportion d'agriculteurs bénéficie d'un prêt bancaire formel en Tunisie selon les enquêtes sectorielles ?",
+    "options": [
+      "Seulement 3 %",
+      "Entre 7 % et 12 %",
+      "Près de 28 %",
+      "Plus de 43 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La proportion d'agriculteurs bénéficiant d'un prêt bancaire formel ne dépasse pas 7 % à 12 % selon les sources (Section 4.3)."
+  },
+  {
+    "id": "c1_q92",
+    "chapterId": 3,
+    "question": "Quelle part des investissements agricoles globaux est financée par le système bancaire classique ?",
+    "options": [
+      "7 %",
+      "11 %",
+      "43 %",
+      "89 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le système bancaire classique ne finance directement que 11 % de l'ensemble des investissements agricoles en Tunisie (Section 4.3)."
+  },
+  {
+    "id": "c1_q93",
+    "chapterId": 3,
+    "question": "Quel pourcentage de l'effort de capitalisation de l'agriculture tunisienne est assuré par l'autofinancement et le crédit fournisseur ?",
+    "options": [
+      "11 %",
+      "13 %",
+      "60 %",
+      "89 %"
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'autofinancement et le crédit fournisseur représentent 89 % de l'effort total de capitalisation des exploitations (Section 4.3)."
+  },
+  {
+    "id": "c1_q94",
+    "chapterId": 3,
+    "question": "Quelle part du volume global des crédits de toute l'économie tunisienne représentent les concours bancaires à l'agriculture ?",
+    "options": [
+      "Moins de 10 %",
+      "Environ 13 %",
+      "Près de 24 %",
+      "Exactement 16 %"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les concours bancaires octroyés à l'agriculture représentent moins de 10 % du volume global des crédits de l'économie (Section 4.3)."
+  },
+  {
+    "id": "c1_q95",
+    "chapterId": 3,
+    "question": "Quelle est la durée maximale des crédits de campagne (court terme) octroyés par la Banque Nationale Agricole (BNA) ?",
+    "options": [
+      "Moins de 6 mois",
+      "Moins de 12 mois",
+      "De 1 à 3 ans",
+      "De 3 à 5 ans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les crédits de campagne sont des crédits de court terme octroyés pour une durée inférieure à 12 mois (Section 4.3)."
+  },
+  {
+    "id": "c1_q96",
+    "chapterId": 3,
+    "question": "Quelle est la gamme de crédits d'investissement de moyen et long terme proposée par la BNA pour l'équipement et l'arboriculture ?",
+    "options": [
+      "Gamme JINENE",
+      "Crédit Interface",
+      "Prêts FOSDA",
+      "Crédits Supervisés"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La BNA déploie des crédits d'investissement de moyen et long terme sous la gamme JINENE (Section 4.3)."
+  },
+  {
+    "id": "c1_q97",
+    "chapterId": 3,
+    "question": "Quelles catégories d'exploitants agricoles sont ciblées par les Crédits Supervisés de la BNA ?",
+    "options": [
+      "Uniquement les agro-combinats de l'OTD",
+      "Les exploitants des catégories A et B possédant moins de 50 hectares",
+      "Exclusivement les exploitations capitalistes de plus de 50 hectares",
+      "Les coopératives de services agricoles (SMSA) en faillite"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les crédits supervisés sont destinés à l'inclusion financière des catégories A et B (possédant moins de 50 ha) (Section 4.3)."
+  },
+  {
+    "id": "c1_q98",
+    "chapterId": 3,
+    "question": "Quels fonds publics de l'État soutiennent financièrement les Crédits Supervisés ?",
+    "options": [
+      "La Caisse Générale de Compensation (CGC)",
+      "Les fonds FOSDA et FOSEP",
+      "Les subventions directes de l'Union européenne",
+      "Le Fonds Vert pour le Climat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les crédits supervisés associent l'octroi financier sous fonds budgétaires de l'État comme le FOSDA et le FOSEP (Section 4.3)."
+  },
+  {
+    "id": "c1_q99",
+    "chapterId": 3,
+    "question": "Quel organisme étatique assure la validation et l'encadrement technique des dossiers de Crédits Supervisés au niveau régional ?",
+    "options": [
+      "La Banque Centrale de Tunisie (BCT)",
+      "L'Union Tunisienne des Agriculteurs et des Pêcheurs (UTAP)",
+      "Les Commissariats Régionaux au Développement Agricole (CRDA)",
+      "L'Agence de Promotion des Investissements Agricoles (APIA)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La validation et l'encadrement technique des dossiers de Crédits Supervisés sont réalisés par les CRDA (Section 4.3)."
+  },
+  {
+    "id": "c1_q100",
+    "chapterId": 3,
+    "question": "En quoi consiste le dispositif de 'Crédit Interface' de la BNA pour financer les chaînes de valeur ?",
+    "options": [
+      "Un prêt direct de la BNA à l'agriculteur sous caution de sa famille",
+      "Un prêt direct à l'agro-industriel qui distribue ensuite des intrants ou du numéraire aux petits producteurs affiliés",
+      "Un crédit octroyé par l'État sans obligation de remboursement",
+      "Une subvention versée directement par l'Office des Céréales"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Crédit Interface est un prêt direct à l'agro-industriel (ex. centrale laitière), qui distribue des intrants ou du numéraire aux producteurs affiliés, facilitant l'accès financier (Section 4.3)."
+  },
+  {
+    "id": "c1_q101",
+    "chapterId": 3,
+    "question": "Quelle est la définition d'un 'Financement Tripartite' conventionné par la BNA ?",
+    "options": [
+      "Un prêt de l'État, des banques privées et du Fonds Vert",
+      "Une convention où la BNA accorde le prêt à l'agriculteur sous la caution solidaire de l'agro-industriel qui rembourse via retenue à la source sur les livraisons de récolte",
+      "Un financement divisé par tiers entre l'agriculteur, l'UTAP et le CRDA",
+      "Une subvention répartie entre l'AFA, l'APIA et la BNA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Financement Tripartite est une convention où la BNA prête à l'agriculteur sous caution solidaire de l'agro-industriel, ce dernier remboursant la banque par retenue à la source sur les livraisons de la récolte (Section 4.3)."
+  },
+  {
+    "id": "c1_q102",
+    "chapterId": 3,
+    "question": "Dans quelles filières le dispositif de Financement Tripartite est-il particulièrement développé en Tunisie ?",
+    "options": [
+      "Dans l'huile d'olive, les agrumes et l'agriculture biologique",
+      "Dans le lait, la betterave, les céréales et la tomate industrielle",
+      "Dans l'aquaculture, le sel et le café torréfié",
+      "Dans les dattes Deglet Nour et les cultures oasiennes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le financement tripartite est très développé dans les filières du lait, de la betterave, des céréales et de la tomate industrielle (Section 4.3)."
+  },
+  {
+    "id": "c1_q103",
+    "chapterId": 3,
+    "question": "À combien plafonne historiquement le taux de recouvrement des prêts octroyés sur fonds budgétaires de l'État aux agriculteurs ?",
+    "options": [
+      "11 %",
+      "43 %",
+      "60 %",
+      "89 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le taux de recouvrement des prêts sur fonds d'État plafonne historiquement à seulement 60 %, traduisant une déresponsabilisation face à l'argent public (Section 4.3)."
+  },
+  {
+    "id": "c1_q104",
+    "chapterId": 3,
+    "question": "Quelle proportion des rejets de dossiers de crédit s'explique par la lourdeur et les retards d'octroi de l'accord bancaire (rendant le crédit inutile car trop tardif) ?",
+    "options": [
+      "12 %",
+      "28 %",
+      "34 %",
+      "41 %"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Les rejets s'expliquent à hauteur de 41 % par des retards d'octroi de l'accord bancaire, intervenant après la date optimale de semis (Section 4.3)."
+  },
+  {
+    "id": "c1_q105",
+    "chapterId": 3,
+    "question": "Quel phénomène climatique force régulièrement la Banque Centrale de Tunisie (BCT) à décider des rééchelonnements obligatoires de dettes agricoles ?",
+    "options": [
+      "Les inondations hivernales",
+      "Les sécheresses récurrentes",
+      "Les tempêtes de sable dans le Sud",
+      "Les vagues de gel printanier"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les sécheresses récurrentes provoquent des défauts de paiement systématiques et forcent à des rééchelonnements obligatoires décidés par la BCT (Section 4.3)."
+  },
+  {
+    "id": "c1_q106",
+    "chapterId": 3,
+    "question": "Quelle part de la production nationale de fruits et légumes transite par les marchés de gros officiels en Tunisie ?",
+    "options": [
+      "25 %",
+      "35 %",
+      "54 %",
+      "75 %"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Les trois quarts (75 %) de la production de fruits et légumes transitent par les marchés de gros officiels (Section 4.4)."
+  },
+  {
+    "id": "c1_q107",
+    "chapterId": 3,
+    "question": "Quel marché de gros centralise à lui seul 35 % des transactions nationales de fruits et légumes de la Tunisie ?",
+    "options": [
+      "Le marché de gros de Béja",
+      "Le marché de gros de Sfax",
+      "Le marché de gros de Bir El Kassaa (Tunis)",
+      "Le marché de gros de Nabeul"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le seul marché de gros de Bir El Kassaa (Tunis) centralise 35 % des transactions nationales de fruits et légumes (Section 4.4)."
+  },
+  {
+    "id": "c1_q108",
+    "chapterId": 3,
+    "question": "Quelles structures collectives d'intérêt privé souffrent de lacunes managériales et n'arrivent pas à réguler la commercialisation ?",
+    "options": [
+      "Les GDA (Groupements de Développement Agricole)",
+      "Les SMSA (Sociétés Mutuelles de Services Agricoles)",
+      "Les GIP (Groupements Interprofessionnels)",
+      "Les Chambres d'Agriculture"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les SMSA (coopératives de services) souffrent de handicaps chroniques qui les empêchent de regrouper l'offre et de réguler commercialement le secteur (Section 4.4)."
+  },
+  {
+    "id": "c1_q109",
+    "chapterId": 3,
+    "question": "Quel maillon de l'infrastructure d'aval fait cruellement défaut et engendre d'importantes pertes après-récolte pour les produits périssables ?",
+    "options": [
+      "L'absence de tracteurs modernes pour la récolte",
+      "Le déficit d'infrastructures de stockage et de froid",
+      "L'absence totale de routes bitumées dans le Nord",
+      "Le manque d'usines de production d'engrais chimiques complexes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le pays souffre d'un déficit d'infrastructures de stockage et de froid, empêchant la régulation de l'offre et provoquant d'importantes pertes après-récolte (Section 4.4)."
+  },
+  {
+    "id": "c1_q110",
+    "chapterId": 3,
+    "question": "Quelle est la situation de l'exportation agrumicole tunisienne vers son marché historique (France) ?",
+    "options": [
+      "Elle progresse fortement grâce aux dattes Deglet Nour",
+      "Elle recule faute de diversification variétale et de respect des normes sanitaires, la Tunisie n'utilisant jamais la totalité de son quota préférentiel",
+      "Elle est en monopole exclusif géré par l'Office National de l'Huile",
+      "Elle a été totalement interdite par l'Union européenne depuis 2011"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La filière agrumicole voit ses volumes d'exportation vers la France reculer faute de diversification variétale et de respect des normes sanitaires, le quota préférentiel vers l'UE n'étant jamais totalement utilisé (Section 4.4)."
+  },
+  {
+    "id": "c1_q111",
+    "chapterId": 3,
+    "question": "Quel a été l'impact de la dépréciation continue du dinar (+33 % face au dollar entre 2010 et 2016) sur l'agriculture tunisienne ?",
+    "options": [
+      "Elle a réduit à zéro la facture des importations de céréales",
+      "Elle a provoqué une hausse spectaculaire du coût des intrants importés sans réévaluation proportionnelle des prix de soutien",
+      "Elle a permis d'éliminer le recours aux aliments concentrés importés",
+      "Elle a provoqué une baisse générale du prix des engrais chimiques sur le marché intérieur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La dépréciation continue du dinar a provoqué une hausse spectaculaire du coût des intrants sans que les prix de soutien à la production soient réévalués en proportion, étranglant la rentabilité (Section 4.4)."
+  },
+  {
+    "id": "c1_q112",
+    "chapterId": 3,
+    "question": "Quels sont les deux régimes de régulation de prix appliqués par l'État tunisien pour stabiliser l'approvisionnement et le marché ?",
+    "options": [
+      "Le régime de l'homologation obligatoire et le régime de la revente à perte",
+      "Le régime des prix fixés ou encadrés administrativement et le régime des prix soumis au libre marché",
+      "Le régime du monopole privé et le régime des taxes douanières forfaitaires",
+      "Le régime de compensation intégrale et le régime du troc commercial"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'État applique deux régimes : les prix fixés ou encadrés administrativement sur les cultures stratégiques, et les prix soumis au libre marché (Section 4.4)."
+  },
+  {
+    "id": "c1_q113",
+    "chapterId": 3,
+    "question": "Quels produits font l'objet de prix fixés ou encadrés administrativement par l'État ?",
+    "options": [
+      "Les fruits de saison, légumes frais et viandes rouges",
+      "Les cultures stratégiques : céréales, lait, huiles végétales de graines, sucre",
+      "Les dattes Deglet Nour, agrumes et pommes de terre",
+      "Le poisson bleu, les viandes de volailles et les œufs de consommation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'État applique des prix fixés administrativement sur les cultures stratégiques comme les céréales, le lait, les huiles végétales de graines et le sucre (Section 4.4)."
+  },
+  {
+    "id": "c1_q114",
+    "chapterId": 3,
+    "question": "Quels organismes publics détiennent des monopoles d'importation pour réguler les prix des produits de première nécessité ?",
+    "options": [
+      "Les Groupements de Développement Agricole (GDA)",
+      "Les Sociétés Mutuelles de Services Agricoles (SMSA)",
+      "Les Offices publics d'État (Office des Céréales, Office National de l'Huile, Office du Commerce)",
+      "L'Union Tunisienne des Agriculteurs et des Pêcheurs (UTAP)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La régulation est gérée par des offices publics détenteurs de monopoles d'importation comme l'Office des Céréales, l'Office National de l'Huile et l'Office du Commerce (Section 4.4)."
+  },
+  {
+    "id": "c1_q115",
+    "chapterId": 3,
+    "question": "Quel organisme de compensation budgétaire soutient le régime des prix administrés des produits stratégiques ?",
+    "options": [
+      "La Caisse de Prévoyance Sociale (CPS)",
+      "La Caisse Générale de Compensation (CGC)",
+      "La Banque Centrale de Tunisie (BCT)",
+      "La Caisse Nationale de Sécurité Sociale (CNSS)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les prix fixés administrativement sont subventionnés par la Caisse Générale de Compensation (CGC) (Section 4.4)."
+  },
+  {
+    "id": "c1_q116",
+    "chapterId": 3,
+    "question": "Quels produits agricoles sont soumis au régime des prix libres du marché en Tunisie ?",
+    "options": [
+      "Le blé dur, le blé tendre et l'orge de brasserie",
+      "Les fruits, légumes, viandes rouges et produits avicoles",
+      "Le sucre blanc, l'huile de graine subventionnée et le lait demi-écrémé",
+      "Le carburant GPL, l'électricité et l'eau d'irrigation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les fruits, légumes, viandes rouges et produits avicoles sont soumis au libre marché (Section 4.4)."
+  },
+  {
+    "id": "c1_q117",
+    "chapterId": 3,
+    "question": "Quelle société publique intervient par des importations d'appoint de viande rouge pour réguler les prix libres sur le marché ?",
+    "options": [
+      "La société ELLOUHOUM",
+      "L'Office des Céréales",
+      "L'Office de l'Élevage et des Pâturages (OEP)",
+      "La Caisse Générale de Compensation (CGC)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'administration intervient de façon indirecte sur les prix de marché par des importations d'appoint opérées par la société publique ELLOUHOUM pour la viande rouge (Section 4.4 / 5.2)."
+  },
+  {
+    "id": "c1_q118",
+    "chapterId": 3,
+    "question": "Quels groupements interprofessionnels (GIP) sont chargés de constituer des stocks régulateurs en cas de surproduction saisonnière ?",
+    "options": [
+      "GICA (conserves) et GIFRUITS",
+      "GIPAC (aviculture) et GIVLait (lait et viandes rouges)",
+      "GID (dattes) et GIL (maraîchers)",
+      "GIPP (pêche) et ONH (oléiculture)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La constitution de stocks régulateurs est confiée aux GIP, comme le GIPAC pour la filière avicole ou le GIVLait pour stocker la surproduction printanière de lait (Section 5.2)."
+  },
+  {
+    "id": "c1_q119",
+    "chapterId": 3,
+    "question": "Comment la crise de la filière laitière s'est-elle manifestée depuis 2016 à cause de la rigidité des prix fixés ?",
+    "options": [
+      "Par une surproduction massive de lait en carton exportée vers la France",
+      "La hausse de 40 % du coût des aliments importés a étranglé les éleveurs, les poussant à abandonner leur cheptel, d'où des pénuries comblées par des importations coûteuses de lait reconstitué",
+      "Par la privatisation de l'Office de l'Élevage et des Pâturages (OEP)",
+      "Par la réduction de 40 % des prix de vente au détail du lait ½ écrémé"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La hausse de plus de 40 % du coût des aliments importés (suite à la dépréciation du dinar) combinée à la rigidité des prix de soutien fixés à la production a poussé les éleveurs à abandonner leur cheptel, provoquant une crise de pénurie laitière comblée par des importations urgentes coûteuses de lait reconstitué (Section 4.4)."
+  },
+  {
+    "id": "c1_q120",
+    "chapterId": 3,
+    "question": "Quel ministre applique des mesures d'encadrement ou de plafonnement des marges bénéficiaires de distribution pour réguler indirectement les prix libres ?",
+    "options": [
+      "Le Ministère de l'Agriculture",
+      "Le Ministère des Finances",
+      "Le Ministère du Commerce",
+      "Le Ministère de l'Industrie"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le Ministère du commerce applique l'encadrement des marges bénéficiaires de distribution pour réguler les produits de base sur le marché libre (Section 4.4 / 5.2)."
+  },
+  {
+    "id": "c1_q121",
+    "chapterId": 3,
+    "question": "Quelle loi de base régit l'encadrement administratif des prix et la régulation de la concurrence en Tunisie ?",
+    "options": [
+      "La Loi de 1960 relative à l'exode rural",
+      "La Loi de 1993 relative aux Groupements Interprofessionnels",
+      "La Loi de 2015 relative à la réorganisation de la concurrence et des prix",
+      "La Loi de 2017 relative au code d'investissement"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La politique des prix est régie par la Loi de 2015 relative à la réorganisation de la concurrence et des prix (Section 5.1)."
+  },
+  {
+    "id": "c1_q122",
+    "chapterId": 3,
+    "question": "Quel principe général est consacré par la Loi de 2015 relative aux prix, tout en prévoyant des exceptions pour les produits stratégiques ?",
+    "options": [
+      "La liberté des prix comme principe général",
+      "La fixation absolue de tous les prix par décret gouvernemental",
+      "L'obligation de subventionner toutes les denrées agricoles",
+      "L'interdiction absolue de toute importation agro-alimentaire"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La Loi de 2015 consacre la liberté des prix comme principe général, mais exclut de ce régime les biens de première nécessité et les produits stratégiques (Section 5.1)."
+  },
+  {
+    "id": "c1_q123",
+    "chapterId": 3,
+    "question": "Comment se caractérise la formation des prix au niveau du secteur céréalier tunisien ?",
+    "options": [
+      "Les prix fluctuent quotidiennement en fonction de la bourse de Chicago",
+      "Une rigidité absolue due au contrôle monopolistique de l'État à tous les niveaux",
+      "Les prix sont librement négociés entre agriculteurs et minotiers",
+      "Les prix sont fixés exclusivement par l'Union Tunisienne des Agriculteurs (UTAP)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La formation des prix du secteur céréalier se caractérise par une rigidité absolue du fait du contrôle monopolistique de l'État à tous les niveaux de la filière (Section 5.1)."
+  },
+  {
+    "id": "c1_q124",
+    "chapterId": 3,
+    "question": "À combien s'est établi le Coefficient de Protection Nominale (CPN) du blé dur en Tunisie en 1992 ?",
+    "options": [
+      "0,44",
+      "1,15",
+      "1,19",
+      "1,33"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Coefficient de Protection Nominale (CPN) du blé dur s'est établi à 1,15 en 1992, montrant une protection nominale positive de la filière (Section 5.1)."
+  },
+  {
+    "id": "c1_q125",
+    "chapterId": 3,
+    "question": "À combien s'est établi le Coefficient de Protection Nominale (CPN) du blé tendre en Tunisie en 1991 ?",
+    "options": [
+      "1,15",
+      "1,19",
+      "1,33",
+      "2,02"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le Coefficient de Protection Nominale (CPN) du blé tendre s'est établi à 1,33 en 1991 (Section 5.1)."
+  },
+  {
+    "id": "c1_q126",
+    "chapterId": 3,
+    "question": "À combien s'est établi le Coefficient de Protection Nominale (CPN) de l'orge en Tunisie en 1992 ?",
+    "options": [
+      "0,92",
+      "1,15",
+      "1,19",
+      "1,33"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le Coefficient de Protection Nominale (CPN) de l'orge s'est établi à 1,19 en 1992 (Section 5.1)."
+  },
+  {
+    "id": "c1_q127",
+    "chapterId": 3,
+    "question": "Quel est le principe d'action de la Caisse Générale de Compensation (CGC) vis-à-vis des produits céréaliers ?",
+    "options": [
+      "L'octroi d'hypothèques gratuites aux petits céréaliculteurs",
+      "La prise en charge de l'écart entre le coût de revient complet des céréales (achats et importations) et le prix de vente subventionné consenti aux transformateurs (revente à perte)",
+      "Le remboursement des pertes liées à l'érosion hydrique",
+      "Le financement des investissements lourds de construction de silos de l'Office des Céréales"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La politique repose sur le principe de la 'revente à perte' par l'Office des Céréales, la CGC prenant en charge l'écart entre le coût de revient complet des céréales et le prix de vente subventionné consenti aux transformateurs (Section 5.1)."
+  },
+  {
+    "id": "c1_q128",
+    "chapterId": 3,
+    "question": "Quel budget total la CGC a-t-elle mobilisé pour compenser les produits alimentaires en 2017, et quelle part du PIB tunisien cela représentait-il ?",
+    "options": [
+      "729 MDT (5,8 % du PIB)",
+      "1 135 MDT (4,6 % du PIB)",
+      "1 486 millions de dinars (1,5 % du PIB)",
+      "2,3 milliards de dollars (11 % du PIB)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "En 2017, la CGC a mobilisé 1 486 millions de dinars pour compenser les produits alimentaires, soit 1,5 % du PIB national (Section 5.1)."
+  },
+  {
+    "id": "c1_q129",
+    "chapterId": 3,
+    "question": "Quelle part de l'enveloppe de compensation alimentaire globale de la CGC est absorbée par les seules céréales en 2017 ?",
+    "options": [
+      "11 %",
+      "31 %",
+      "76 % (soit 1 096 millions de dinars)",
+      "95 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les céréales absorbent à elles seules 76 % de l'enveloppe de compensation alimentaire de la CGC en 2017, soit 1 096 millions de dinars (Section 5.1)."
+  },
+  {
+    "id": "c1_q130",
+    "chapterId": 3,
+    "question": "À combien s'est élevée l'enveloppe totale de compensation de la CGC en 2015 sous l'effet de la dépréciation du dinar ?",
+    "options": [
+      "729 millions de dinars",
+      "1 096 millions de dinars",
+      "1 359 millions de dinars",
+      "1 486 millions de dinars"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La compensation a doublé depuis 2010 et a atteint un sommet de 1 359 millions de dinars en 2015 sous l'effet du renchérissement des importations céréalières (Section 5.1)."
+  },
+  {
+    "id": "c1_q131",
+    "chapterId": 3,
+    "question": "Quels produits agricoles ou de première nécessité appartiennent au 'Régime de l'homologation des prix à tous les stades' (Tableau A) ?",
+    "options": [
+      "Le sel, la levure de panification, le ciment et le rond à béton",
+      "Le pain subventionné, la farine, la semoule, les pâtes, l'huile de graine subventionnée, le lait ½ écrémé, l'eau, l'électricité et les médicaments",
+      "Le riz, les agrumes, les dattes, les pommes de terre, les tomates, les piments et le concentré de tomates",
+      "Les viandes bovines, ovines, les produits avicoles et le poisson bleu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Tableau A (homologation à tous les stades) concerne les produits de première nécessité : pain subventionné, farine, semoule, pâtes, huile de graine, lait demi-écrémé, eau, électricité, médicaments, carburants, etc. (Section 5.1)."
+  },
+  {
+    "id": "c1_q132",
+    "chapterId": 3,
+    "question": "Quels produits appartiennent au 'Régime de l'homologation au stade de la production' (Tableau B) en Tunisie ?",
+    "options": [
+      "Le pain subventionné, la semoule et le lait ½ écrémé",
+      "Le sel, la levure de panification, le café torréfié, les bières, le ciment, le rond à béton et le chaux",
+      "Le riz, les pommes de terre, les dattes et le concentré de tomates",
+      "Le riz, le sucre subventionné et le thé importé"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Tableau B (homologation au stade de la production) concerne le sel, la levure de panification, le café torréfié, les bières, le chaux, le ciment, le rond à béton, etc. (Section 5.1)."
+  },
+  {
+    "id": "c1_q133",
+    "chapterId": 3,
+    "question": "Quels produits de consommation courante relèvent du régime de l'encadrement des marges de distribution (Tableau C) ?",
+    "options": [
+      "Le pain subventionné, l'huile de graine et le sucre blanc",
+      "Le riz, les agrumes, les raisins de table, les dattes, les pommes de terre, les tomates, les piments, les oignons et le concentré de tomates",
+      "Le sel, la levure de panification et le ciment",
+      "Les carburants GPL, l'électricité et l'eau potable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Tableau C (encadrement des marges) s'applique au riz, aux agrumes, raisins, dattes, pommes de terre, tomates, piments, oignons, beurre et concentré de tomates (Section 5.1)."
+  },
+  {
+    "id": "c1_q134",
+    "chapterId": 3,
+    "question": "Quel effet pervers de distorsion de marché la subvention élevée du pain (76 % subventionné par la CGC) a-t-elle favorisé en Tunisie ?",
+    "options": [
+      "Une baisse drastique de la consommation nationale de viande rouge",
+      "L'émergence d'un commerce de pain rassis destiné à l'alimentation animale (concerne 49 % du pain non consommé)",
+      "La faillite immédiate de toutes les minoteries industrielles",
+      "L'arrêt complet de la collecte locale de céréales"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'Institut National de la Consommation (INC) estime que le gaspillage du pain subventionné à 76 % a favorisé l'émergence d'un commerce de pain rassis pour l'alimentation animale (49 % du pain non consommé récupéré) (Section 5.2 / 5.1)."
+  },
+  {
+    "id": "c1_q135",
+    "chapterId": 3,
+    "question": "À combien se vendrait un sac de 50 kg de pain rassis sur le marché parallèle destiné à l'alimentation animale ?",
+    "options": [
+      "Entre 5 et 10 DT",
+      "Entre 15 et 30 DT",
+      "Entre 50 et 75 DT",
+      "Plus de 100 DT"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le sac de 50 kg de pain rassis se vendrait entre 15 et 30 DT pour l'alimentation animale (Section 5.2 / 5.1)."
+  },
+  {
+    "id": "c1_q136",
+    "chapterId": 3,
+    "question": "Quel est l'objectif cible de la stratégie nationale de l'INC pour réduire les volumes de gaspillage du pain ?",
+    "options": [
+      "Une réduction de 10 % dans les deux premières années",
+      "L'interdiction totale de la fabrication de baguettes",
+      "Une baisse de 50 % des subventions de la CGC d'ici 2021",
+      "La fermeture de 35 % des boulangeries classées"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'INC a lancé une stratégie nationale de réduction du gaspillage du pain visant à réduire les volumes de 10 % dans les deux premières années (Section 5.2 / 5.1)."
+  },
+  {
+    "id": "c1_q137",
+    "chapterId": 3,
+    "question": "Quels sont les facteurs principaux qui causent la forte volatilité des prix libres des fruits et légumes en Tunisie ?",
+    "options": [
+      "La fixité absolue des tarifs douaniers",
+      "Les aléas climatiques, la saisonnalité des récoltes, le coût du transport et le manque de transparence des transactions",
+      "Les subventions d'exportation vers l'Union européenne",
+      "La régulation centralisée par l'Office des Céréales"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les prix libres fluctuent au gré de la loi de l'offre et de la demande mais subissent une forte volatilité liée aux aléas climatiques, à la saisonnalité, au coût logistique et au manque de transparence (Section 5.2)."
+  },
+  {
+    "id": "c1_q138",
+    "chapterId": 3,
+    "question": "Quel GIP intervient pour constituer des stocks régulateurs sur la filière des produits de la pêche ?",
+    "options": [
+      "GICA",
+      "GIPP",
+      "GIL",
+      "GIVLait"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le GIPP (Groupement Interprofessionnel des Produits de la Pêche) gère la filière halieutique en Tunisie (Section 8.2)."
+  },
+  {
+    "id": "c1_q139",
+    "chapterId": 3,
+    "question": "Comment le gouvernement tunisien corrige-t-il ponctuellement la flambée des prix de la viande bovine sur le marché intérieur ?",
+    "options": [
+      "Par la fixation du prix de vente des aliments de bétail par décret",
+      "Par des importations d'appoint de viande opérées par la société publique ELLOUHOUM",
+      "Par l'interdiction de l'abattage des femelles laitières de moins de 10 ans",
+      "Par l'octroi de subventions de transport aux importateurs privés"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'administration intervient ponctuellement par des importations d'appoint opérées par la société publique ELLOUHOUM pour réguler les cours (Section 5.2)."
+  },
+  {
+    "id": "c1_q140",
+    "chapterId": 3,
+    "question": "Quel organisme public centralise le monopole d'importation des huiles de graines brutes destinées à la subvention nationale ?",
+    "options": [
+      "L'Office des Céréales (OC)",
+      "L'Office National de l'Huile (ONH)",
+      "Le Groupement Interprofessionnel des Légumes (GIL)",
+      "L'Office du Commerce de la Tunisie"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'Office National de l'Huile (ONH) détient le monopole d'importation des huiles de graines brutes subventionnées (Section 8.1, Tableau 8.1)."
+  },
+  {
+    "id": "c1_q141",
+    "chapterId": 3,
+    "question": "Quelle part de l'emploi national total représentait le secteur agricole en 1960 ?",
+    "options": [
+      "14,5 %",
+      "17,6 %",
+      "28 %",
+      "Plus de 40 %"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Au début des années 1960, le secteur de l'agriculture représentait plus de 40 % de l'emploi total national (Section 1.1 / 6.1)."
+  },
+  {
+    "id": "c1_q142",
+    "chapterId": 3,
+    "question": "Quel pourcentage de la population active totale représentait l'emploi agricole en Tunisie en 2018 ?",
+    "options": [
+      "9 %",
+      "14,5 %",
+      "17,6 %",
+      "22,3 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "En 2018, l'emploi agricole représentait 14,5 % de la population active nationale (Section 6.1)."
+  },
+  {
+    "id": "c1_q143",
+    "chapterId": 3,
+    "question": "Quelle était la part de l'emploi agricole en Tunisie en 2010 ?",
+    "options": [
+      "14,5 %",
+      "17,6 %",
+      "28 %",
+      "40 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "En 2010, l'emploi agricole représentait 17,6 % de la population active totale (Section 6.1)."
+  },
+  {
+    "id": "c1_q144",
+    "chapterId": 3,
+    "question": "Quelle tendance de fond explique le déclin continu de la part de l'emploi agricole en Tunisie ?",
+    "options": [
+      "Un solde net de création d'emplois devenu négatif sous l'effet du morcellement et de la faiblesse des revenus réels",
+      "La mécanisation intégrale et l'utilisation généralisée de l'irrigation connectée",
+      "L'interdiction légale du salariat agricole informel",
+      "La diminution drastique du nombre total des petites exploitations de moins de 5 hectares"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le déclin s'explique par un solde de création nette d'emplois agricole devenu négatif sous l'effet combiné du morcellement et de la faiblesse des revenus agricoles réels (Section 6.1)."
+  },
+  {
+    "id": "c1_q145",
+    "chapterId": 3,
+    "question": "Quelle catégorie d'actifs représentait la part majoritaire absolue (52 %) de la force de travail agricole en 1990 ?",
+    "options": [
+      "Les exploitants directs",
+      "Les aides familiaux non salariés",
+      "Les salariés agricoles permanents",
+      "Les femmes salariées temporaires"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les aides familiaux constituaient le noyau de la force de travail agricole, représentant 52 % des actifs en 1990 contre 53 % en 1980 (Section 6.2)."
+  },
+  {
+    "id": "c1_q146",
+    "chapterId": 3,
+    "question": "Quelle part de la main-d'œuvre totale agricole représentait le salariat agricole permanent en Tunisie en 1990 ?",
+    "options": [
+      "3 %",
+      "13 %",
+      "35 %",
+      "52 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le salariat agricole permanent est structurellement faible, ne représentant que 13 % de la main-d'œuvre totale, soit 101 000 personnes en 1990 (Section 6.2)."
+  },
+  {
+    "id": "c1_q147",
+    "chapterId": 3,
+    "question": "Quelle part des exploitants agricoles tunisiens est pluri-active, exerçant d'autres métiers pour compléter leurs revenus ?",
+    "options": [
+      "13 %",
+      "28 %",
+      "40 %",
+      "60 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le travail agricole se caractérise par une forte précarité avec 40 % des exploitants agricoles qui sont pluri-actifs (Section 1.2)."
+  },
+  {
+    "id": "c1_q148",
+    "chapterId": 3,
+    "question": "Quel pourcentage des salariés agricoles et aides familiaux travaillent moins de six mois dans l'année au sein du secteur ?",
+    "options": [
+      "13 %",
+      "22,3 %",
+      "40 %",
+      "Près de 60 %"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Près de 60 % des salariés agricoles et des aides familiaux travaillent moins de 6 mois dans l'année au sein du secteur, révélant la précarité et la saisonnalité de l'emploi (Section 1.2 / 6.3)."
+  },
+  {
+    "id": "c1_q149",
+    "chapterId": 3,
+    "question": "Quel pourcentage d'actifs agricoles tunisiens travaille de manière régulière plus de 9 mois par an, par rapport à l'ensemble national des actifs ?",
+    "options": [
+      "52 % en agricole contre 53 % au national",
+      "75,5 % en agricole contre 83,5 % au national",
+      "14,5 % en agricole contre 17,6 % au national",
+      "60 % en agricole contre 40 % au national"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Seulement 75,5 % des actifs agricoles travaillent plus de 9 mois par an (régulier) alors que cette part s'élève à 83,5 % pour l'ensemble des actifs tous secteurs confondus (Section 6.3)."
+  },
+  {
+    "id": "c1_q150",
+    "chapterId": 3,
+    "question": "Quelle est la part officielle des femmes dans la population active agricole tunisienne en 2012, et à combien s'élève leur participation réelle estimée ?",
+    "options": [
+      "13 % officielle contre 22,3 % réelle",
+      "22,3 % officielle contre 36,5 % réelle",
+      "36,5 % officielle contre 52 % réelle",
+      "42 % officielle contre 63,6 % réelle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La statistique officielle de 2012 l'établit à 22,3 % alors que des enquêtes sectorielles l'estiment à 36,5 % de la force de travail agricole réelle (Section 1.2 / 6.4)."
+  },
+  {
+    "id": "c1_q151",
+    "chapterId": 3,
+    "question": "Quelle part des postes de travail agricole d'une durée précaire de moins d'un mois est occupée par les femmes ?",
+    "options": [
+      "13 %",
+      "22,3 %",
+      "36,5 %",
+      "63,6 %"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Les femmes occupent 63,6 % des postes de travail agricole d'une durée inférieure à un mois (Section 6.4)."
+  },
+  {
+    "id": "c1_q152",
+    "chapterId": 3,
+    "question": "Quel est le taux d'analphabétisme de la population active agricole tunisienne comparé à la moyenne nationale des actifs ?",
+    "options": [
+      "9 % en agricole contre 28 % au national",
+      "28 % en agricole (dont 42 % de femmes) contre 9 % au national",
+      "42 % en agricole contre 28 % au national",
+      "47 % en agricole contre 9 % au national"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le niveau d'instruction des actifs du secteur agricole est bas : 28 % des actifs agricoles sont analphabètes (dont 42 % de femmes), alors que la moyenne nationale n'est que de 9 % (Section 1.2 / 6.5)."
+  },
+  {
+    "id": "c1_q153",
+    "chapterId": 3,
+    "question": "Quelle est la répartition du niveau d'instruction de la population active agricole en Tunisie (primaire, secondaire, supérieur) ?",
+    "options": [
+      "47 % primaire, 22 % secondaire et seulement 3 % supérieur",
+      "28 % primaire, 47 % secondaire et 22 % supérieur",
+      "9 % primaire, 47 % secondaire et 3 % supérieur",
+      "52 % primaire, 35 % secondaire et 13 % supérieur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Environ 47 % des actifs ont un niveau d'instruction primaire, 22 % secondaire et seulement 3 % supérieur (Section 1.2 / 6.5)."
+  },
+  {
+    "id": "c1_q154",
+    "chapterId": 3,
+    "question": "Quels sont les taux d'absorption des jeunes de 15 à 19 ans et des jeunes de 25 à 29 ans dans le secteur agricole tunisien ?",
+    "options": [
+      "40 % pour les 15-19 ans et 13 % pour les 25-29 ans",
+      "25,6 % pour les 15-19 ans et seulement 12,4 % pour les 25-29 ans",
+      "12,4 % pour les 15-19 ans et 25,6 % pour les 25-29 ans",
+      "53 % pour les 15-19 ans et 35 % pour les 25-29 ans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'absorption des jeunes s'effondre : l'agriculture emploie 25,6 % des jeunes de 15 à 19 ans, mais cette part glisse à 16,8 % pour les 20-24 ans et s'effondre à 12,4 % pour les 25-29 ans (Section 6.6)."
+  },
+  {
+    "id": "c1_q155",
+    "chapterId": 3,
+    "question": "Quels gouvernorats sont marqués par un exode rural important des jeunes après 2011 ?",
+    "options": [
+      "Nabeul, Sousse et Tunis",
+      "Siliana, Jendouba et Médenine",
+      "Sidi Bouzid, Kasserine et Gafsa",
+      "Bizerte, Béja et Sfax"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Section 1.2 indique un exode rural marqué vers le littoral après 2011, touchant notamment les gouvernorats de Siliana, Jendouba et Médenine."
+  },
+  {
+    "id": "c1_q156",
+    "chapterId": 3,
+    "question": "Que signifie le sigle SMSA en économie rurale tunisienne ?",
+    "options": [
+      "Sociétés Mutuelles de Services Agricoles",
+      "Syndicat Mutuel de Secours Agricole",
+      "Société Marocaine de Services Agronomiques",
+      "Structures Mutuelles de Stockage Alimentaire"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SMSA signifie Sociétés Mutuelles de Services Agricoles (Section 7.1)."
+  },
+  {
+    "id": "c1_q157",
+    "chapterId": 3,
+    "question": "Quel est le statut juridique et la mission principale des SMSA ?",
+    "options": [
+      "Des établissements publics d'État ayant pour mission l'expropriation des terres",
+      "Des structures collectives d'intérêt économique privé, régies par un statut coopératif, pour regrouper les producteurs et réaliser des économies d'échelle",
+      "Des associations d'intérêt public sans personnalité civile",
+      "Des banques de crédit d'investissement réservées aux grands exploitants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les SMSA sont des structures collectives d'intérêt économique privé régies par un statut coopératif, pour regrouper les producteurs (Section 7.1)."
+  },
+  {
+    "id": "c1_q158",
+    "chapterId": 3,
+    "question": "Quel est le rôle fondamental joué par les SMSA à l'aval des filières d'élevage ?",
+    "options": [
+      "L'importation exclusive d'ammonitrate d'Ukraine",
+      "L'organisation de la collecte laitière au Nord, évitant l'isolement des petits éleveurs face aux centrales industrielles",
+      "La vente de semences sélectionnées subventionnées aux grands exploitants",
+      "L'immatriculation foncière des propriétés de moins de 5 hectares"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les SMSA jouent un rôle fondamental dans la collecte laitière au Nord, évitant l'isolement des petits éleveurs (Section 7.1)."
+  },
+  {
+    "id": "c1_q159",
+    "chapterId": 3,
+    "question": "Quelles tares de gestion récurrentes limitent l'efficacité de la majorité des SMSA ?",
+    "options": [
+      "L'excès de capitaux de réserve non distribués aux adhérents",
+      "Une faible participation des adhérents, une mauvaise gestion comptable, une absence de crédibilité bancaire et le non-respect des statuts",
+      "Un interventionnisme excessif des banques commerciales privées",
+      "La monopolisation de la collecte nationale de céréales"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les SMSA souffrent de : faible participation, mauvaise gestion comptable, absence de crédibilité bancaire, et non-respect des statuts (Section 7.1)."
+  },
+  {
+    "id": "c1_q160",
+    "chapterId": 3,
+    "question": "Que signifie le sigle GDA et à quelles anciennes structures ont-ils succédé ?",
+    "options": [
+      "Groupement de Développement Agricole, succédant aux AIC (Associations d'Intérêt Collectif)",
+      "Groupement de Distribution d'Aliments, succédant aux GIP",
+      "Groupement de Droit Agraire, succédant aux SMSA",
+      "Gestion des Domaines Agricoles, succédant à l'OTD"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les GDA (Groupements de Développement Agricole) ont succédé aux anciennes Associations d'Intérêt Collectif (AIC) (Section 7.2)."
+  },
+  {
+    "id": "c1_q161",
+    "chapterId": 3,
+    "question": "Quel est le statut juridique et la mission principale d'un GDA ?",
+    "options": [
+      "Une coopérative d'intérêt économique privé chargée de l'importation d'engrais",
+      "Une structure d'intérêt public associant les usagers d'un même périmètre irrigué public ou réseau d'eau potable rural, pour la gestion de la ressource et des factures",
+      "Un établissement public à caractère industriel et commercial",
+      "Un syndicat professionnel d'agriculteurs affilié à l'UTAP"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les GDA sont des structures d'intérêt public regroupant les usagers pour assurer la gestion d'un périmètre irrigué ou d'un réseau d'eau potable rurale (Section 7.2)."
+  },
+  {
+    "id": "c1_q162",
+    "chapterId": 3,
+    "question": "Quel GDA s'est imposé comme une référence d'excellence nationale et internationale pour sa gouvernance communautaire ?",
+    "options": [
+      "Le GDA de Béja Nord",
+      "Le GDA de Sidi Amor",
+      "Le GDA de Bir El Kassaa",
+      "Le GDA de Siliana"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le GDA de Sidi Amor s'est imposé comme une référence d'excellence de gestion intégrée des ressources et de protection de la biodiversité (Section 2.0 / 2.4 / 7.2)."
+  },
+  {
+    "id": "c1_q163",
+    "chapterId": 3,
+    "question": "Quelles technologies d'économie d'eau et de gestion écologique sont combinées au GDA de Sidi Amor ?",
+    "options": [
+      "L'irrigation par aspersion lourde et la fertilisation chimique",
+      "Le goutte-à-goutte, le paillage systématique, la collecte des eaux pluviales et la valorisation agronomique des eaux usées après traitement secondaire",
+      "Le pompage d'eau des nappes profondes fossiles et la désalinisation de l'eau de mer",
+      "L'irrigation par submersion et l'abandon de toute culture arboricole"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le GDA de Sidi Amor combine goutte-à-goutte, paillage systématique, collecte d'eaux pluviales et valorisation des eaux usées traitées (Section 2.0 / 2.4 / 7.2)."
+  },
+  {
+    "id": "c1_q164",
+    "chapterId": 3,
+    "question": "Quelles institutions sont associées à la gouvernance innovante du GDA de Sidi Amor ?",
+    "options": [
+      "Uniquement des promoteurs privés étrangers",
+      "Les structures publiques (CRDA), la recherche académique, le secteur privé et des coopérations internationales (UE, AFD)",
+      "La Banque Mondiale et la BNA de manière exclusive",
+      "L'UTAP et l'Office des Céréales de Tunis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sa gouvernance associe CRDA, recherche académique, secteur privé et coopérations internationales comme l'UE et l'AFD (Section 2.0 / 7.2)."
+  },
+  {
+    "id": "c1_q165",
+    "chapterId": 3,
+    "question": "En quelle année les Chambres d'Agriculture ont-elles été créées en Tunisie ?",
+    "options": [
+      "1960",
+      "1986",
+      "1988",
+      "1993"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les Chambres d'Agriculture ont été créées en Tunisie au niveau régional en 1988 (Section 7.3)."
+  },
+  {
+    "id": "c1_q166",
+    "chapterId": 3,
+    "question": "Quelles sont les trois zones de juridiction des Chambres d'Agriculture tunisiennes ?",
+    "options": [
+      "Chambre du Nord, Chambre du Centre, et Chambre du Sud",
+      "Chambre de Tunis, Chambre de Sfax, et Chambre de Sousse",
+      "Chambre du Nord-Ouest, Chambre du Nord-Est, et Chambre du Centre",
+      "Chambre Sahélienne, Chambre Oasienne, et Chambre Céréalière"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les Chambres d'Agriculture ont été créées au niveau de trois grandes régions : Chambre du Nord, du Centre et du Sud (Section 7.3)."
+  },
+  {
+    "id": "c1_q167",
+    "chapterId": 3,
+    "question": "Quels blocages entravent le fonctionnement et la légitimité des Chambres d'Agriculture en Tunisie ?",
+    "options": [
+      "Leur nationalisation par l'Office des Terres Domaniales",
+      "Perçues comme des créations administratives de l'État, elles souffrent d'un manque de légitimité, de prérogatives floues et de conflits d'influence avec les CRDA et l'UTAP",
+      "Leur financement exclusif par des cotisations privées de l'étranger",
+      "Le refus d'élection de leurs dirigeants par les professionnels"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les Chambres d'Agriculture font face à un manque de légitimité, des prérogatives floues et des conflits réguliers d'influence avec les CRDA et l'UTAP (Section 7.3)."
+  },
+  {
+    "id": "c1_q168",
+    "chapterId": 3,
+    "question": "Que signifie le sigle UTAP en Tunisie ?",
+    "options": [
+      "Union Tunisienne des Agriculteurs et des Pêcheurs",
+      "Union Territoriale de l'Agriculture de Pointe",
+      "Unité de Transition de l'Agriculture Pluviale",
+      "Union Tunisienne de l'Agro-industrie et du Paysage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "UTAP désigne le syndicat historique des agriculteurs : l'Union Tunisienne des Agriculteurs et des Pêcheurs (Section 7.3)."
+  },
+  {
+    "id": "c1_q169",
+    "chapterId": 3,
+    "question": "Qui a la charge d'assurer le recouvrement des factures d'eau auprès des agriculteurs irriguants pour le compte des CRDA ?",
+    "options": [
+      "La BNA",
+      "Les GDA",
+      "Les Chambres d'Agriculture",
+      "L'Office des Céréales"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les GDA ont la charge d'assurer le recouvrement des factures d'eau auprès des agriculteurs pour le compte des CRDA (Section 7.2)."
+  },
+  {
+    "id": "c1_q170",
+    "chapterId": 3,
+    "question": "Quelle structure d'intérêt public gère l'entretien physique des réseaux de distribution d'eau potable rurale ?",
+    "options": [
+      "L'AFA",
+      "Les SMSA",
+      "Les GDA",
+      "Le CTAB"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les GDA ont la charge d'assurer la gestion technique et financière ainsi que l'entretien des réseaux de distribution d'eau potable rurale (Section 7.2)."
+  },
+  {
+    "id": "c1_q171",
+    "chapterId": 3,
+    "question": "Quel est le statut juridique des Offices publics agricoles d'État tunisiens ?",
+    "options": [
+      "Des associations de droit privé à but non lucratif",
+      "Des établissements publics à caractère industriel et commercial (EPIC) détenus à 100 % par l'État",
+      "Des sociétés anonymes cotées à la Bourse de Tunis",
+      "Des coopératives de services agricoles contrôlées par l'UTAP"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les Offices sont des établissements publics à caractère industriel et commercial (EPIC) détenus à 100 % par l'État (Section 8.1)."
+  },
+  {
+    "id": "c1_q172",
+    "chapterId": 3,
+    "question": "Quelle est la mission principale et exclusive de l'Office des Céréales (OC) ?",
+    "options": [
+      "Le développement fourrager et l'identification des animaux",
+      "La promotion de l'investissement privé et l'octroi des primes",
+      "Le monopole d'achat de la production céréalière locale, monopole d'importation, stockage de sécurité, gestion des silos et de la CGC",
+      "L'exploitation des terres agricoles publiques de l'État"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'OC détient le monopole d'achat local, d'importation, gère le stockage, les silos et la compensation CGC (Section 8.1, Tableau 8.1)."
+  },
+  {
+    "id": "c1_q173",
+    "chapterId": 3,
+    "question": "Quelle est la mission principale de l'Office de l'Élevage et des Pâturages (OEP) ?",
+    "options": [
+      "L'importation de blé dur et de blé tendre",
+      "L'amélioration génétique et productivité de l'élevage, développement fourrager et identification animale",
+      "L'attribution de terres agricoles et la restructuration foncière",
+      "Le stockage de sécurité d'huiles végétales"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'OEP s'occupe de l'amélioration génétique, de la productivité animale, du développement fourrager et de l'identification animale (Section 8.1, Tableau 8.1)."
+  },
+  {
+    "id": "c1_q174",
+    "chapterId": 3,
+    "question": "Quelle est la mission principale de l'Office des Terres Domaniales (OTD) ?",
+    "options": [
+      "La distribution de crédits de campagne aux petits éleveurs",
+      "La restructuration foncière et la viabilisation des parcelles",
+      "L'exploitation et mise en valeur des terres agricoles publiques de l'État, et gestion directe d'agro-combinats",
+      "La promotion de l'investissement privé à l'exportation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'OTD a pour mission d'exploiter et de mettre en valeur les terres agricoles de l'État et de gérer les agro-combinats publics (Section 8.1, Tableau 8.1)."
+  },
+  {
+    "id": "c1_q175",
+    "chapterId": 3,
+    "question": "Que signifie le sigle AFA et quelle est sa mission principale ?",
+    "options": [
+      "Agence Foncière Agricole : chargée de la restructuration foncière, viabilisation et assainissement des parcelles, attribution de terres",
+      "Agence de Financement Agricole : chargée d'octroyer des prêts de structure",
+      "Association des Familles d'Agriculteurs : chargée de la protection sociale",
+      "Autorité des Fourrages et Aliments : chargée de réguler le tourteau de soja"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'AFA est l'Agence Foncière Agricole, en charge de la restructuration foncière, de l'assainissement et de l'attribution des terres (Section 8.1, Tableau 8.1)."
+  },
+  {
+    "id": "c1_q176",
+    "chapterId": 3,
+    "question": "Quelle est la mission principale de l'Office National de l'Huile (ONH) ?",
+    "options": [
+      "Le monopole de la commercialisation locale des agrumes",
+      "Le soutien aux producteurs, contrôle de qualité, et monopole d'importation des huiles de graines brutes subventionnées",
+      "Le traitement et l'octroi des avantages financiers d'investissement",
+      "Le stockage national des fourrages importés"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'ONH soutient les producteurs, contrôle la qualité et détient le monopole d'importation des huiles de graines brutes subventionnées (Section 8.1, Tableau 8.1)."
+  },
+  {
+    "id": "c1_q177",
+    "chapterId": 3,
+    "question": "Que signifie le sigle APIA et quelle est sa mission ?",
+    "options": [
+      "Agence de Promotion des Investissements Agricoles : chargée de la promotion de l'investissement privé et de l'octroi des primes et avantages",
+      "Agence pour l'Importation d'Ammonitrate : chargée de l'approvisionnement",
+      "Association Professionnelle des Ingénieurs Agronomes : chargée de l'examen",
+      "Autorité de Planification de l'Irrigation Agricole : chargée des barrages"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'APIA est l'Agence de Promotion des Investissements Agricoles, chargée de promouvoir l'investissement privé et de traiter l'octroi des primes (Section 8.1, Tableau 8.1)."
+  },
+  {
+    "id": "c1_q178",
+    "chapterId": 3,
+    "question": "Que signifie le sigle ONF, nouvel office créé pour réguler l'amont de l'élevage ?",
+    "options": [
+      "Office National des Fourrages (importation, stockage, distribution d'aliments concentrés comme le tourteau de soja et régulation des prix)",
+      "Office National des Forêts (gestion du patrimoine boisé et reboisement)",
+      "Office National des Fruits (promotion des exportations de dattes)",
+      "Office National du Financement (financement intermédié de campagne)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'ONF est l'Office National des Fourrages, créé pour importer, stocker, distribuer les tourteaux de soja et aliments concentrés, et réguler les prix (Section 8.1, Tableau 8.1)."
+  },
+  {
+    "id": "c1_q179",
+    "chapterId": 3,
+    "question": "Que signifie le sigle CTAB et quelle est sa mission principale ?",
+    "options": [
+      "Centre Technique de l'Agriculture Biologique : recherche appliquée, validation des intrants bio, vulgarisation et formation",
+      "Caisse de Transition de l'Agriculture Biologique : crédit d'investissement bio",
+      "Comité Tunisien d'Agronomie Biologique : délivrance de la certification",
+      "Centre Technique des Agrumes et Betteraves : gestion des filières contractuelles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le CTAB est le Centre Technique de l'Agriculture Biologique, en charge de la recherche, de la validation d'intrants bio et de la formation (Section 8.1, Tableau 8.1)."
+  },
+  {
+    "id": "c1_q180",
+    "chapterId": 3,
+    "question": "Quel est le statut juridique unique et hybride des Groupements Interprofessionnels (GIP) en Tunisie ?",
+    "options": [
+      "Des établissements publics d'État sous tutelle budgétaire directe",
+      "Des personnes morales d'intérêt économique public, dotées de l'autonomie financière et de la personnalité civile, soumises au droit privé commercial pour leur gestion contractuelle",
+      "Des sociétés privées par actions cotées à la bourse",
+      "Des coopératives de production agricole régies par la BNA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les GIP sont des personnes morales d'intérêt économique public, dotées d'autonomie financière et civile, gérées selon le droit commercial privé (Section 8.2)."
+  },
+  {
+    "id": "c1_q181",
+    "chapterId": 3,
+    "question": "Quelles sont les deux principales lois cadres qui régissent les GIP en Tunisie ?",
+    "options": [
+      "La Loi de 1960 et la Loi de 1986",
+      "La Loi n° 93-84 du 26 juillet 1993 et la Loi n° 2005-16 du 16 février 2005",
+      "La Loi de 2011 et la Loi de 2017",
+      "Le Code d'investissement de 2015 et la Loi foncière de 1988"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les GIP sont régis par la Loi cadre n° 93-84 du 26 juillet 1993, modernisée par la Loi n° 2005-16 du 16 février 2005 (Section 8.2)."
+  },
+  {
+    "id": "c1_q182",
+    "chapterId": 3,
+    "question": "Quelles caractéristiques financières et juridiques singulières s'appliquent aux GIP pour éviter leur effondrement en cas de crise ?",
+    "options": [
+      "Ils sont financés à 100 % par le budget de l'État tunisien",
+      "Ils sont créés sans capital social, exclus explicitement des procédures de faillite/concordat, et bénéficient du privilège du Trésor public pour le recouvrement de leurs taxes",
+      "Ils sont rachetés obligatoirement par la Banque Nationale Agricole",
+      "Ils ont la possibilité d'émettre des obligations financières privées"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les GIP sont créés sans capital, exclus des faillites, et bénéficient du privilège du Trésor pour le recouvrement (Section 8.2)."
+  },
+  {
+    "id": "c1_q183",
+    "chapterId": 3,
+    "question": "Comment se compose le Conseil d'Administration paritaire d'un GIP en Tunisie ?",
+    "options": [
+      "Un tiers de représentants de la BNA et deux tiers de l'UTAP",
+      "Moitié de l'administration publique et moitié de parlementaires",
+      "Un tiers de représentants de l'administration publique et deux tiers de représentants élus des organisations professionnelles",
+      "Exclusivement de représentants nommés par le Ministère de l'Agriculture"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le Conseil d'administration des GIP est paritaire : 1/3 de représentants de l'administration et 2/3 de représentants professionnels élus (Section 8.2)."
+  },
+  {
+    "id": "c1_q184",
+    "chapterId": 3,
+    "question": "Quel est le mode principal de financement des activités des GIP ?",
+    "options": [
+      "Les subventions directes de la Caisse Générale de Compensation (CGC)",
+      "Les taxes parafiscales de filière, les cotisations professionnelles et les rémunérations de services",
+      "Les prêts de structure sans intérêt accordés par la BNA",
+      "L'émission d'actions commerciales sur le marché financier"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le financement des GIP repose sur des taxes parafiscales de filière, des cotisations professionnelles et des services (Section 8.2 / Tableau 8.2)."
+  },
+  {
+    "id": "c1_q185",
+    "chapterId": 3,
+    "question": "Quels sont les GIP existants de la filière maraîchère, de la filière dattes et de la filière fruits en Tunisie ?",
+    "options": [
+      "OEP, ONH et OTD",
+      "GIL (légumes maraîchers), GID (dattes, siège à Tozeur) et GIFRUITS (agrumes et fruits)",
+      "GIPAC, GIPP et GIVLait",
+      "AFA, APIA et CTAB"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le réseau des GIP comprend notamment le GIL, le GID (Tozeur, Deglet Nour) et le GIFRUITS (Maltaise) (Section 8.2)."
+  },
+  {
+    "id": "c1_q186",
+    "chapterId": 3,
+    "question": "Quelle est la définition d'un processus de planification en économie rurale ?",
+    "options": [
+      "L'obligation pour l'État de financer tous les projets privés",
+      "Un processus cyclique et structuré consistant à analyser de façon diagnostique une situation, fixer des objectifs clairs et mesurables, et programmer les moyens budgétaires, physiques et humains dans le temps pour les atteindre",
+      "Un système de tarification douanière destiné à bloquer les importations",
+      "L'immatriculation foncière automatique de toutes les exploitations dualistes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La planification se définit comme un processus cyclique de diagnostic, fixation d'objectifs et programmation temporelle des ressources budgétaires et humaines (Section 9.1)."
+  },
+  {
+    "id": "c1_q187",
+    "chapterId": 3,
+    "question": "Combien de grandes étapes cycliques compose le processus d'élaboration et d'exécution du Plan de développement agricole ?",
+    "options": [
+      "3",
+      "5",
+      "8",
+      "10"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'élaboration et l'exécution du Plan de développement agricole comportent huit grandes étapes cycliques (Section 9.2)."
+  },
+  {
+    "id": "c1_q188",
+    "chapterId": 3,
+    "question": "En quoi consiste l'Étape 1 du processus de planification agricole en Tunisie ?",
+    "options": [
+      "La validation politique et le vote du budget par l'Assemblée",
+      "Le diagnostic et l'analyse de la situation : étude technique et statistique de l'état initial des ressources, des potentiels et des risques",
+      "La mise en œuvre opérationnelle physique des chantiers de barrages",
+      "Le choix des projets via les méthodes VAN et TRI"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'Étape 1 est l'analyse diagnostique de la situation technique et statistique des ressources, potentiels et risques (Section 9.2)."
+  },
+  {
+    "id": "c1_q189",
+    "chapterId": 3,
+    "question": "Quel exemple d'objectif quantifié spécifique et d'indicateur de performance est associé à l'Étape 2 (Définition des objectifs) du plan ?",
+    "options": [
+      "Une réduction de 10 % du coût de la betterave à sucre",
+      "Produire 1,52 milliard de litres de lait avec un taux de couverture sanitaire des élevages de 90 % en 2021",
+      "Générer 18 dinars de profit privé pour un dinar de ressources nationales",
+      "Atteindre un Coefficient de Protection Nominale (CPN) de 1,15 pour toutes les céréales"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le plan distingue les objectifs généraux des objectifs spécifiques quantifiés, comme produire 1,52 milliard de litres de lait en 2021 avec un taux de couverture sanitaire de 90 % (Section 9.2)."
+  },
+  {
+    "id": "c1_q190",
+    "chapterId": 3,
+    "question": "Quelle part de l'enveloppe de financement de l'investissement agricole public représentait le financement extérieur des PTF (partenaires techniques et financiers) en 2017 ?",
+    "options": [
+      "3 %",
+      "7 %",
+      "13 %",
+      "44 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "En 2017, les ressources extérieures des PTF représentaient 13 % du financement de l'investissement agricole tunisien (Section 9.2, Étape 5)."
+  },
+  {
+    "id": "c1_q191",
+    "chapterId": 3,
+    "question": "Qui doit obligatoirement valider et adopter le Plan de développement agricole après consultation élargie avant sa mise en œuvre ?",
+    "options": [
+      "La Banque Nationale Agricole (BNA)",
+      "Le syndicat UTAP de manière unilatérale",
+      "L'Assemblée des Représentants du Peuple (ARP) par un vote",
+      "La Caisse Générale de Compensation (CGC)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le Plan de développement agricole doit être voté et adopté par l'Assemblée des Représentants du Peuple (ARP) (Section 9.2, Étape 6)."
+  },
+  {
+    "id": "c1_q192",
+    "chapterId": 3,
+    "question": "En quoi consiste l'Étape 8 du cycle de planification agricole ?",
+    "options": [
+      "Le diagnostic et l'analyse statistique de départ",
+      "Le suivi, l'évaluation et la révision continue pour mesurer les écarts par rapport aux objectifs et réorienter les budgets",
+      "La programmation chronologique des actions et désignation des responsables",
+      "La négociation des conventions tripartites de financement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'Étape 8 est le suivi-évaluation et la révision continue, mesurant l'écart entre réalisations physiques/budgétaires et objectifs (Section 9.2)."
+  },
+  {
+    "id": "c1_q193",
+    "chapterId": 3,
+    "question": "Quels sont les trois instruments opérationnels d'exécution dont dispose l'administration tunisienne pour concrétiser le Plan quinquennal ?",
+    "options": [
+      "La BNA, le CRDA et les SMSA",
+      "Le Budget Économique, le Budget d'Équipement (ou d'Investissement), et les procédures et critères de sélection des projets",
+      "La CGC, la BCT et le Ministère du commerce",
+      "Les banquettes, les tabias et les lacs collinaires"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pour exécuter le plan pluriannuel à moyen terme, l'administration dispose du Budget Économique, du Budget d'Équipement et des critères de sélection des projets (Section 9.3)."
+  },
+  {
+    "id": "c1_q194",
+    "chapterId": 3,
+    "question": "Quelle est la définition et la temporalité du 'Budget Économique' ?",
+    "options": [
+      "Un budget à long terme (10 ans) finançant uniquement l'agriculture biologique",
+      "Une programmation annuelle de court terme estimant la production attendue, les besoins d'import/export et vérifiant la cohérence macroéconomique globale",
+      "Une subvention exceptionnelle versée par l'AFA en cas de sécheresse",
+      "La caisse de financement des centrales laitières du Nord-Ouest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Budget Économique est une programmation annuelle de court terme qui estime la production attendue, les volumes nécessaires à l'import/export et vérifie la cohérence macroéconomique globale (Section 9.3)."
+  },
+  {
+    "id": "c1_q195",
+    "chapterId": 3,
+    "question": "Qu'est-ce que le 'Budget d'Équipement ou d'Investissement' dans le cadre de la planification agricole ?",
+    "options": [
+      "La caisse de paiement du salaire minimum agricole garanti (SMAG)",
+      "Un outil annuel pour financer les dépenses courantes de fonctionnement administratif",
+      "Un outil de moyen et long terme qui finance les dépenses de développement visant à acquérir ou moderniser des actifs physiques durables",
+      "Le budget réservé au remboursement obligatoire des dettes des SMSA"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le Budget d'Équipement finance à moyen/long terme les dépenses de développement pour acquérir ou moderniser des actifs physiques durables (Section 9.3)."
+  },
+  {
+    "id": "c1_q196",
+    "chapterId": 3,
+    "question": "Quels aménagements structuraux à long terme sont financés par le Budget d'Équipement ?",
+    "options": [
+      "L'achat de semences sélectionnées et d'engrais chimiques pour les campagnes annuelles",
+      "Le paiement des subventions de la Caisse Générale de Compensation (CGC)",
+      "Les barrages, réseaux de transfert d'eau, aménagements forestiers, de CES et les centres de formation professionnelle",
+      "Le fonctionnement administratif quotidien des CRDA régionaux"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le budget d'équipement finance les actifs de développement durables : barrages, réseaux de transfert, aménagements forestiers, de CES, et centres de formation (Section 9.3)."
+  },
+  {
+    "id": "c1_q197",
+    "chapterId": 3,
+    "question": "Combien de critères incontournables et de méthodes d'évaluation quantitatives composent le filtre technique rigoureux de sélection des projets ?",
+    "options": [
+      "3 critères et 5 méthodes",
+      "5 critères et 5 méthodes",
+      "10 critères et 10 méthodes d'évaluation quantitatives",
+      "12 critères et 12 méthodes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le filtre technique rigoureux de sélection repose sur dix critères incontournables et dix méthodes d'évaluation quantitatives (Section 9.3)."
+  },
+  {
+    "id": "c1_q198",
+    "chapterId": 3,
+    "question": "Parmi les dix critères de sélection incontournables des projets, que désigne le critère de 'Viabilité économique' ?",
+    "options": [
+      "Le profit comptable net dégagé par l'investisseur privé",
+      "L'évaluation du bien-être social collectif apporté par le projet pour l'économie globale",
+      "La rapidité de dédouanement des équipements importés",
+      "La capacité d'autofinancement exclusive par les GDA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La viabilité économique s'intéresse au bien-être social apporté par le projet à la collectivité, à la différence de la rentabilité financière qui se concentre sur le promoteur privé (Section 9.3)."
+  },
+  {
+    "id": "c1_q199",
+    "chapterId": 3,
+    "question": "Quels critères font partie des dix critères incontournables de sélection d'un projet d'investissement public ?",
+    "options": [
+      "La conformité aux règles fiscales de l'Union européenne",
+      "Pertinence, Faisabilité technique, Rentabilité financière, Viabilité économique, Impact social, Impact environnemental, Soutenabilité financière, Maturité, Capacité d'exécution et Urgence/Complémentarité",
+      "La part des importations d'engrais et la réduction de l'exode rural",
+      "La concentration de l'emploi des femmes et le niveau d'analphabétisme"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les 10 critères incontournables sont : pertinence, faisabilité, rentabilité financière, viabilité économique, impact social, impact environnemental, soutenabilité financière, maturité, capacité d'exécution et urgence (Section 9.3)."
+  },
+  {
+    "id": "c1_q200",
+    "chapterId": 3,
+    "question": "Quelles méthodes d'évaluation quantitatives de projets sont explicitement recommandées dans le guide de la planification agricole ?",
+    "options": [
+      "Le taux de change, la balance commerciale et l'indice de protection nominale",
+      "La Valeur Actuelle Nette (VAN), le Taux de Rentabilité Interne (TRI), le Délai de Récupération, le Rapport avantages-coûts et l'Analyse multicritère",
+      "Le coefficient de coût en ressources domestiques et l'indice d'orientation",
+      "La comptabilité de caisse des SMSA et le budget de fonctionnement du CRDA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les dix méthodes quantitatives incluent la VAN, le TRI, le Délai de récupération, le Rapport avantages-coûts et l'Analyse multicritère (Section 9.3)."
+  },
+  {
+    "id": "c1_q201",
+    "chapterId": 3,
+    "question": "Quelle est la part de la population active totale tunisienne représentée par l'emploi agricole en 2010 ?",
+    "options": [
+      "10,2 %",
+      "14,5 %",
+      "17,6 %",
+      "24 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La part de la population active agricole en 2010 s'élevait à 17,6 % (Section 1.2 / 6.1)."
+  },
+  {
+    "id": "c1_q202",
+    "chapterId": 3,
+    "question": "Quelle est la part des dépenses publiques globales de la Tunisie affectée au budget agricole en 2008 ?",
+    "options": [
+      "4,6 %",
+      "5,5 %",
+      "5,8 %",
+      "10,2 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Selon le Tableau 1.2, en 2008, les allocations au secteur agricole représentaient 5,8 % du budget total de l'État."
+  },
+  {
+    "id": "c1_q203",
+    "chapterId": 3,
+    "question": "Quelle est la part des dépenses publiques globales affectée au budget agricole en 2012 ?",
+    "options": [
+      "4,6 %",
+      "5,5 %",
+      "5,8 %",
+      "10,2 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "En 2012, les allocations agricoles représentaient 5,8 % du budget total de l'État (Tableau 1.2)."
+  },
+  {
+    "id": "c1_q204",
+    "chapterId": 3,
+    "question": "En 2013, à combien s'élevait le budget alloué au secteur agricole et sa part relative dans le budget de l'État ?",
+    "options": [
+      "729 MDT (5,8 %)",
+      "824 MDT (5,8 %)",
+      "1 000 MDT (4,6 %)",
+      "1 135 MDT (4,6 %)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "En 2013, le budget alloué à l'agriculture s'est établi à 1 000 MDT, représentant 4,6 % du budget total de l'État (Tableau 1.2)."
+  },
+  {
+    "id": "c1_q205",
+    "chapterId": 3,
+    "question": "À combien s'élevait le budget de l'agriculture tunisienne en 2015 en valeur absolue et sa part relative ?",
+    "options": [
+      "1 128 MDT (5,8 %)",
+      "1 135 MDT (4,6 %)",
+      "1 249 MDT (5,7 %)",
+      "1 486 MDT (1,5 %)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Selon le Tableau 1.2, en 2015, le budget alloué à l'agriculture s'élevait à 1 249 MDT, soit 5,7 % du budget de l'État."
   }
 ]
