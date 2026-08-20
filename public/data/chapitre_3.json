@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c3_q1",
+    "chapterId": 3,
+    "question": "Quelle loi organique du 1er août 2001 constitue la 'constitution financière' de l'État en France ?",
+    "options": [
+      "La LOLF (Loi organique relative aux lois de finances)",
+      "Le décret de 1862 sur la comptabilité publique",
+      "Le Pacte de stabilité et de croissance",
+      "La loi MAPTAM"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La LOLF (Loi organique relative aux lois de finances du 1er août 2001) a remplacé l'ordonnance de 1959 en instaurant une gestion budgétaire par missions, programmes et actions orientée vers la performance et les résultats."
+  },
+  {
+    "id": "c3_q2",
+    "chapterId": 3,
+    "question": "Quel principe budgétaire classique interdit d'affecter une recette déterminée à une dépense déterminée ?",
+    "options": [
+      "Le principe d'annualité",
+      "Le principe d'universalité (règle de non-affectation)",
+      "Le principe de spécialité",
+      "Le principe de sincérité"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le principe d'universalité comprend deux règles : la règle du produit brut (toutes les recettes et dépenses sont inscrites sans compensation) et la règle de non-affectation (l'ensemble des recettes couvre l'ensemble des dépenses)."
+  },
+  {
+    "id": "c3_q3",
+    "chapterId": 3,
+    "question": "Quel est le délai constitutionnel maximal accordé au Parlement pour voter le projet de loi de finances (article 47 de la Constitution) ?",
+    "options": [
+      "40 jours",
+      "50 jours",
+      "70 jours",
+      "90 jours"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'article 47 de la Constitution dispose que si le Parlement ne s'est pas prononcé dans un délai de 70 jours après le dépôt du projet de loi de finances, les dispositions du projet peuvent être mises en vigueur par ordonnance."
+  },
+  {
+    "id": "c3_q4",
+    "chapterId": 3,
+    "question": "Quel est le rôle du principe de séparation des ordonnateurs et des comptables publics (GBCP 2012) ?",
+    "options": [
+      "Garantir qu'une même personne ne puisse pas à la fois décider et exécuter financièrement une dépense",
+      "Permettre aux ministres de payer directement les fournisseurs",
+      "Supprimer le contrôle a priori de la Cour des comptes",
+      "Accélérer le versement des subventions européennes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La séparation des ordonnateurs (qui décident des opérations et engagent les dépenses) et des comptables publics (qui manient les fonds publics et paient) vise à prévenir les fraudes, erreurs et conflits d'intérêts."
+  },
+  {
+    "id": "c3_q5",
+    "chapterId": 3,
+    "question": "Dans la nomenclature de la LOLF, quelle unité budgétaire regroupe les crédits mis à la disposition d'un ministre et constitue l'unité de vote ?",
+    "options": [
+      "L'Action",
+      "Le Programme",
+      "La Mission",
+      "Le Titre"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La Mission est l'unité de vote du budget au Parlement. Elle regroupe un ensemble de programmes concourant à une politique publique interministérielle ou ministérielle."
+  },
+  {
+    "id": "c3_q6",
+    "chapterId": 3,
+    "question": "Quel critère du Traité de Maastricht fixe le plafond de référence pour le déficit public des États membres de l'UE en temps normal ?",
+    "options": [
+      "1 % du PIB",
+      "3 % du PIB",
+      "5 % du PIB",
+      "60 % du PIB"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Pacte de stabilité issu du Traité de Maastricht établit deux seuils phares : un déficit public annuel inférieur à 3 % du PIB et une dette publique brute inférieure à 60 % du PIB."
+  }
+]

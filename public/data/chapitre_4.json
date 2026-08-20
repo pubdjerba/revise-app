@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c4_q1",
+    "chapterId": 4,
+    "question": "Quel traité signé en 1992 a officiellement fondé l'Union Européenne et posé les jalons de la monnaie unique (l'Euro) ?",
+    "options": [
+      "Le Traité de Rome",
+      "L'Acte unique européen",
+      "Le Traité de Maastricht",
+      "Le Traité de Lisbonne"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le Traité sur l'Union Européenne (TUE), signé à Maastricht le 7 février 1992 et entré en vigueur le 1er novembre 1993, a créé l'Union européenne et fixé les étapes de l'Union économique et monétaire."
+  },
+  {
+    "id": "c4_q2",
+    "chapterId": 4,
+    "question": "Quelle institution de l'Union européenne dispose du quasi-monopole de l'initiative législative ?",
+    "options": [
+      "Le Conseil européen",
+      "La Commission européenne",
+      "Le Parlement européen",
+      "La Cour de justice de l'UE"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Commission européenne est la seule institution habilitée à proposer de nouvelles lois européennes (règlements, directives), que le Parlement européen et le Conseil de l'Union européenne adoptent conjointement."
+  },
+  {
+    "id": "c4_q3",
+    "chapterId": 4,
+    "question": "Quelle est la différence fondamentale entre une Directive européenne et un Règlement européen ?",
+    "options": [
+      "Le Règlement s'applique directement sans transposition, alors que la Directive fixe un objectif et nécessite une transposition nationale",
+      "La Directive est immédiatement obligatoire dans tous ses éléments, pas le Règlement",
+      "Le Règlement n'engage que les institutions et non les citoyens",
+      "La Directive ne concerne que la fiscalité et le budget"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Selon l'article 288 du TFUE, le Règlement a une portée générale et est directement applicable dans tous les États membres. La Directive lie tout État destinataire quant au résultat à atteindre, tout en laissant la compétence quant à la forme et aux moyens (transposition)."
+  },
+  {
+    "id": "c4_q4",
+    "chapterId": 4,
+    "question": "Quelle autorité administrative indépendante créée en 2011 (article 71-1 de la Constitution) est chargée de veiller au respect des droits et libertés des usagers ?",
+    "options": [
+      "La CNIL",
+      "L'ARCOM",
+      "Le Défenseur des droits",
+      "La HATVP"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le Défenseur des droits (succédant au Médiateur de la République, à la HALDE, au Défenseur des enfants et à la CNDS) est une autorité constitutionnelle indépendante chargée de défendre les droits des citoyens face aux administrations."
+  },
+  {
+    "id": "c4_q5",
+    "chapterId": 4,
+    "question": "Quel principe républicain garanti par la loi du 9 décembre 1905 assure la liberté de conscience et la séparation des Églises et de l'État ?",
+    "options": [
+      "Le principe de solidarité nationale",
+      "Le principe de laïcité",
+      "Le principe de subsidiarité",
+      "Le principe de non-ingérence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La loi du 9 décembre 1905 pose en son article 1er que 'La République assure la liberté de conscience. Elle garantit le libre exercice des cultes' et en son article 2 que 'La République ne reconnaît, ne salarie ni ne subventionne aucun culte'."
+  },
+  {
+    "id": "c4_q6",
+    "chapterId": 4,
+    "question": "Combien d'États membres composent actuellement l'Union Européenne (depuis le départ effectif du Royaume-Uni en 2020) ?",
+    "options": [
+      "25 États",
+      "27 États",
+      "28 États",
+      "30 États"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Depuis le Brexit effectif le 31 janvier 2020, l'Union européenne compte 27 États membres."
+  }
+]

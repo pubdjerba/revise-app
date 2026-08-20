@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c2_q1",
+    "chapterId": 2,
+    "question": "Quel arrêt du Tribunal des conflits du 8 février 1873 est considéré comme la décision fondatrice du droit administratif moderne ?",
+    "options": [
+      "Arrêt Blanco",
+      "Arrêt Cadot",
+      "Arrêt Nicolo",
+      "Arrêt Terrier"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'arrêt Blanco (1873) consacre à la fois l'autonomie du droit administratif applicable aux services publics et la compétence de la juridiction administrative."
+  },
+  {
+    "id": "c2_q2",
+    "chapterId": 2,
+    "question": "Quelles sont les trois composantes traditionnelles de l'ordre public général en droit administratif français ?",
+    "options": [
+      "Liberté, Égalité, Fraternité",
+      "Sécurité, Salubrité, Tranquillité publiques",
+      "Continuité, Mutabilité, Égalité",
+      "Légalité, Proportionnalité, Opportunité"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'ordre public général (défini notamment à l'article L. 2212-2 du CGCT) comprend traditionnellement la sécurité publique, la salubrité publique et la tranquillité publique (auxquelles s'ajoute la dignité de la personne humaine depuis l'arrêt Morsang-sur-Orge de 1995)."
+  },
+  {
+    "id": "c2_q3",
+    "chapterId": 2,
+    "question": "Quelle loi régit le statut général unifié de la fonction publique (aujourd'hui codifié dans le CGFP depuis mars 2022) ?",
+    "options": [
+      "Le Code général de la fonction publique (CGFP)",
+      "Le Code du travail administratif",
+      "Le Statut Thorez de 1946 uniquement",
+      "La loi Décentralisation de 1982"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Depuis le 1er mars 2022, les 4 lois statutaires (loi Le Pors de 1983, FPE 1984, FPT 1984, FPH 1986) ont été codifiées au sein du Code général de la fonction publique (CGFP)."
+  },
+  {
+    "id": "c2_q4",
+    "chapterId": 2,
+    "question": "Quel est le délai de recours contentieux de droit commun contre une décision administrative unilatérale devant le Tribunal administratif ?",
+    "options": [
+      "1 mois",
+      "2 mois",
+      "6 mois",
+      "1 an"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Selon l'article R. 421-1 du Code de justice administrative, la juridiction ne peut être saisie que par voie de recours formé dans le délai de deux mois à partir de la notification ou de la publication de la décision attaquée."
+  },
+  {
+    "id": "c2_q5",
+    "chapterId": 2,
+    "question": "Quelle célèbre trilogie jurisprudentielle dite 'Lois de Rolland' caractérise les principes fondamentaux du service public ?",
+    "options": [
+      "Continuité, Mutabilité (adaptabilité), Égalité",
+      "Gratuité, Laïcité, Obligation",
+      "Neutralité, Transparence, Célérité",
+      "Compétence, Hiérarchie, Responsabilité"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Louis Rolland a formalisé au début du XXe siècle les trois grands principes régissant tout service public : le principe de continuité, le principe de mutabilité (ou d'adaptation constante) et le principe d'égalité des usagers."
+  },
+  {
+    "id": "c2_q6",
+    "chapterId": 2,
+    "question": "Qu'est-ce qu'un acte administratif unilatéral (AAU) pris sous le régime du 'privilège du préalable' ?",
+    "options": [
+      "Un acte qui s'applique d'office sans recours préalable à un juge",
+      "Un acte nécessitant toujours l'accord préalable du Conseil d'État",
+      "Un acte soumis à une enquête publique obligatoire",
+      "Un acte temporaire valable 30 jours maximum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le privilège du préalable signifie que les décisions administratives sont présumées légales et immédiatement exécutoires de plein droit pour les administrés sans que l'administration ait besoin de demander l'autorisation préalable d'un juge."
+  }
+]

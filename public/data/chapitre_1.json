@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c1_q1",
+    "chapterId": 1,
+    "question": "Quel article de la Constitution du 4 octobre 1958 définit le rôle du Président de la République comme garant de la continuité de l'État et du respect des traités ?",
+    "options": [
+      "Article 5",
+      "Article 8",
+      "Article 16",
+      "Article 20"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'article 5 dispose que 'Le Président de la République veille au respect de la Constitution. Il assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics ainsi que la continuité de l'État. Il est le garant de l'indépendance nationale, de l'intégrité du territoire et du respect des traités.'"
+  },
+  {
+    "id": "c1_q2",
+    "chapterId": 1,
+    "question": "En vertu de l'article 49 alinéa 3 de la Constitution, combien de fois par session ordinaire le Premier ministre peut-il engager la responsabilité du Gouvernement sur un projet de loi ordinaire ?",
+    "options": [
+      "Autant de fois qu'il le souhaite",
+      "Une seule fois par session ordinaire",
+      "Deux fois par an",
+      "Uniquement sur les textes votés en commission mixte paritaire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Depuis la révision constitutionnelle de 2008, l'usage du 49.3 est limité aux projets de loi de finances (PLF), de financement de la sécurité sociale (PLFSS), et à un seul autre texte par session parlementaire."
+  },
+  {
+    "id": "c1_q3",
+    "chapterId": 1,
+    "question": "Qui a le pouvoir de saisir le Conseil constitutionnel pour une Question Prioritaire de Constitutionnalité (QPC) en dernière instance avant examen au fond ?",
+    "options": [
+      "Tout citoyen directement auprès du greffe du Conseil",
+      "Le Conseil d'État ou la Cour de cassation",
+      "Le Président de la République ou 60 députés",
+      "Le Défenseur des droits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dans le cadre de la QPC (article 61-1), le Conseil constitutionnel est saisi sur renvoi du Conseil d'État ou de la Cour de cassation, qui opèrent un filtre préalable."
+  },
+  {
+    "id": "c1_q4",
+    "chapterId": 1,
+    "question": "Combien de membres composent le Conseil constitutionnel (hors anciens Présidents de la République membres de droit) ?",
+    "options": [
+      "7 membres",
+      "9 membres",
+      "12 membres",
+      "15 membres"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Conseil constitutionnel comprend neuf membres nommés pour un mandat de 9 ans non renouvelable : 3 par le Président de la République, 3 par le Président de l'Assemblée nationale, et 3 par le Président du Sénat."
+  },
+  {
+    "id": "c1_q5",
+    "chapterId": 1,
+    "question": "Quel principe fondamental a été consacré par la décision 'Liberté d'association' du Conseil constitutionnel du 16 juillet 1971 ?",
+    "options": [
+      "La suprématie des traités sur les lois",
+      "L'intégration du Préambule de la Constitution dans le bloc de constitutionnalité",
+      "L'irresponsabilité pénale du chef de l'État",
+      "La création du principe de précaution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La décision historique du 16 juillet 1971 a conféré une valeur juridique contraignante au Préambule de 1958 (renvoyant à la DDHC de 1789 et au Préambule de 1946), créant le 'bloc de constitutionnalité'."
+  },
+  {
+    "id": "c1_q6",
+    "chapterId": 1,
+    "question": "En cas de vacance de la Présidence de la République constatée par le Conseil constitutionnel, qui assure l'intérim ?",
+    "options": [
+      "Le Premier ministre",
+      "Le Président de l'Assemblée nationale",
+      "Le Président du Sénat",
+      "Le Président du Conseil constitutionnel"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Selon l'article 7 de la Constitution, en cas de vacance ou d'empêchement définitif constaté par le Conseil constitutionnel, les fonctions du Président sont provisoirement exercées par le Président du Sénat."
+  }
+]
